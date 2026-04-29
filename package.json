@@ -1,0 +1,14 @@
+{
+  "name": "prca-history-records",
+  "version": "1.0.0",
+  "description": "Scrape PRCA historical world champion records into JSON.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "node scrape-prca-world-champions.mjs",
+    "scrape:headed": "node scrape-prca-world-champions.mjs --headed --manual"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
