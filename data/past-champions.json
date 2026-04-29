@@ -1,0 +1,4868 @@
+[
+  {
+    "year": "1929",
+    "event": "All Around",
+    "athlete": "Earl Thode",
+    "hometown": "Belvidere, S.D."
+  },
+  {
+    "year": "1930",
+    "event": "All Around",
+    "athlete": "Clay Carr",
+    "hometown": "Visalia, Calif."
+  },
+  {
+    "year": "1931",
+    "event": "All Around",
+    "athlete": "Johnie Schneider",
+    "hometown": "Livermore, Calif."
+  },
+  {
+    "year": "1932",
+    "event": "All Around",
+    "athlete": "Donald Nesbit",
+    "hometown": "Snowflake, Ariz."
+  },
+  {
+    "year": "1933",
+    "event": "All Around",
+    "athlete": "Clay Carr",
+    "hometown": "Visalia, Calif."
+  },
+  {
+    "year": "1934",
+    "event": "All Around",
+    "athlete": "Leonard Ward",
+    "hometown": "Talent, Ore."
+  },
+  {
+    "year": "1935",
+    "event": "All Around",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1936",
+    "event": "All Around",
+    "athlete": "John Bowman",
+    "hometown": "Oakdale, Calif."
+  },
+  {
+    "year": "1937",
+    "event": "All Around",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1938",
+    "event": "All Around",
+    "athlete": "Burel Mulkey",
+    "hometown": "Salmon, Idaho"
+  },
+  {
+    "year": "1939",
+    "event": "All Around",
+    "athlete": "Paul Carney",
+    "hometown": "Galeton, Colo."
+  },
+  {
+    "year": "1940",
+    "event": "All Around",
+    "athlete": "Fritz Truan",
+    "hometown": "Long Beach, Calif."
+  },
+  {
+    "year": "1941",
+    "event": "All Around",
+    "athlete": "Homer Pettigrew",
+    "hometown": "Grady, N.M."
+  },
+  {
+    "year": "1942",
+    "event": "All Around",
+    "athlete": "Gerald Roberts",
+    "hometown": "Strong City, Kan."
+  },
+  {
+    "year": "1943",
+    "event": "All Around",
+    "athlete": "Louis Brooks",
+    "hometown": "Pittsburg, Okla."
+  },
+  {
+    "year": "1944",
+    "event": "All Around",
+    "athlete": "Louis Brooks",
+    "hometown": "Pittsburg, Okla."
+  },
+  {
+    "year": "1947",
+    "event": "All Around",
+    "athlete": "Todd Whatley",
+    "hometown": "Hugo, Okla."
+  },
+  {
+    "year": "1948",
+    "event": "All Around",
+    "athlete": "Gerald Roberts",
+    "hometown": "Strong City, Kan."
+  },
+  {
+    "year": "1949",
+    "event": "All Around",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1950",
+    "event": "All Around",
+    "athlete": "Bill Linderman",
+    "hometown": "Red Lodge, Mont."
+  },
+  {
+    "year": "1951",
+    "event": "All Around",
+    "athlete": "Casey Tibbs",
+    "hometown": "Fort Pierre, S.D."
+  },
+  {
+    "year": "1952",
+    "event": "All Around",
+    "athlete": "Harry Tompkins",
+    "hometown": "Dublin, Texas"
+  },
+  {
+    "year": "1953",
+    "event": "All Around",
+    "athlete": "Bill Linderman",
+    "hometown": "Red Lodge, Mont."
+  },
+  {
+    "year": "1954",
+    "event": "All Around",
+    "athlete": "Buck Rutherford",
+    "hometown": "Lenapah, Okla."
+  },
+  {
+    "year": "1955",
+    "event": "All Around",
+    "athlete": "Casey Tibbs",
+    "hometown": "Fort Pierre, S.D."
+  },
+  {
+    "year": "1956",
+    "event": "All Around",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1957",
+    "event": "All Around",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1958",
+    "event": "All Around",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1959",
+    "event": "All Around",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1960",
+    "event": "All Around",
+    "athlete": "Harry Tompkins",
+    "hometown": "Dublin, Texas"
+  },
+  {
+    "year": "1961",
+    "event": "All Around",
+    "athlete": "Benny Reynolds",
+    "hometown": "Melrose, Mont."
+  },
+  {
+    "year": "1962",
+    "event": "All Around",
+    "athlete": "Tom Nesmith",
+    "hometown": "Bethel, Okla."
+  },
+  {
+    "year": "1963",
+    "event": "All Around",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1964",
+    "event": "All Around",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1965",
+    "event": "All Around",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1966",
+    "event": "All Around",
+    "athlete": "Larry Mahan",
+    "hometown": "Brooks, Ore."
+  },
+  {
+    "year": "1967",
+    "event": "All Around",
+    "athlete": "Larry Mahan",
+    "hometown": "Brooks, Ore."
+  },
+  {
+    "year": "1968",
+    "event": "All Around",
+    "athlete": "Larry Mahan",
+    "hometown": "Salem, Ore."
+  },
+  {
+    "year": "1969",
+    "event": "All Around",
+    "athlete": "Larry Mahan",
+    "hometown": "Salem, Ore."
+  },
+  {
+    "year": "1970",
+    "event": "All Around",
+    "athlete": "Larry Mahan",
+    "hometown": "Brooks, Ore."
+  },
+  {
+    "year": "1971",
+    "event": "All Around",
+    "athlete": "Phil Lyne",
+    "hometown": "George West, Texas"
+  },
+  {
+    "year": "1972",
+    "event": "All Around",
+    "athlete": "Phil Lyne",
+    "hometown": "George West, Texas"
+  },
+  {
+    "year": "1973",
+    "event": "All Around",
+    "athlete": "Larry Mahan",
+    "hometown": "Dallas, Texas"
+  },
+  {
+    "year": "1974",
+    "event": "All Around",
+    "athlete": "Tom Ferguson",
+    "hometown": "Miami, Okla."
+  },
+  {
+    "year": "1975",
+    "event": "All Around",
+    "athlete": "Tom Ferguson",
+    "hometown": "Miami, Okla. (tie)"
+  },
+  {
+    "year": "1975",
+    "event": "All Around",
+    "athlete": "Leo Camarillo",
+    "hometown": "Oakdale, Calif. (tie)"
+  },
+  {
+    "year": "1976",
+    "event": "All Around",
+    "athlete": "Tom Ferguson",
+    "hometown": "Miami, Okla."
+  },
+  {
+    "year": "1977",
+    "event": "All Around",
+    "athlete": "Tom Ferguson",
+    "hometown": "Miami, Okla."
+  },
+  {
+    "year": "1978",
+    "event": "All Around",
+    "athlete": "Tom Ferguson",
+    "hometown": "Miami, Okla."
+  },
+  {
+    "year": "1979",
+    "event": "All Around",
+    "athlete": "Tom Ferguson",
+    "hometown": "Miami, Okla."
+  },
+  {
+    "year": "1980",
+    "event": "All Around",
+    "athlete": "Paul Tierney",
+    "hometown": "Rapid City, S.D."
+  },
+  {
+    "year": "1981",
+    "event": "All Around",
+    "athlete": "Jimmie Cooper",
+    "hometown": "Monument, N.M."
+  },
+  {
+    "year": "1982",
+    "event": "All Around",
+    "athlete": "Chris Lybbert",
+    "hometown": "Coyote, Calif."
+  },
+  {
+    "year": "1983",
+    "event": "All Around",
+    "athlete": "Roy Cooper",
+    "hometown": "Durant, Okla."
+  },
+  {
+    "year": "1984",
+    "event": "All Around",
+    "athlete": "Dee Pickett",
+    "hometown": "Caldwell, Idaho"
+  },
+  {
+    "year": "1985",
+    "event": "All Around",
+    "athlete": "Lewis Feild",
+    "hometown": "Elk Ridge, Utah"
+  },
+  {
+    "year": "1986",
+    "event": "All Around",
+    "athlete": "Lewis Feild",
+    "hometown": "Elk Ridge, Utah"
+  },
+  {
+    "year": "1987",
+    "event": "All Around",
+    "athlete": "Lewis Feild",
+    "hometown": "Elk Ridge, Utah"
+  },
+  {
+    "year": "1988",
+    "event": "All Around",
+    "athlete": "Dave Appleton",
+    "hometown": "Arlington, Texas"
+  },
+  {
+    "year": "1989",
+    "event": "All Around",
+    "athlete": "Ty Murray",
+    "hometown": "Odessa, Texas"
+  },
+  {
+    "year": "1990",
+    "event": "All Around",
+    "athlete": "Ty Murray",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "1991",
+    "event": "All Around",
+    "athlete": "Ty Murray",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "1992",
+    "event": "All Around",
+    "athlete": "Ty Murray",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "1993",
+    "event": "All Around",
+    "athlete": "Ty Murray",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "1994",
+    "event": "All Around",
+    "athlete": "Ty Murray",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "1995",
+    "event": "All Around",
+    "athlete": "Joe Beaver",
+    "hometown": "Huntsville, Texas"
+  },
+  {
+    "year": "1996",
+    "event": "All Around",
+    "athlete": "Joe Beaver",
+    "hometown": "Huntsville, Texas"
+  },
+  {
+    "year": "1997",
+    "event": "All Around",
+    "athlete": "Dan Mortensen",
+    "hometown": "Manhattan, Mont."
+  },
+  {
+    "year": "1998",
+    "event": "All Around",
+    "athlete": "Ty Murray",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "1999",
+    "event": "All Around",
+    "athlete": "Fred Whitfield",
+    "hometown": "Hockley, Texas"
+  },
+  {
+    "year": "2000",
+    "event": "All Around",
+    "athlete": "Joe Beaver",
+    "hometown": "Huntsville, Texas"
+  },
+  {
+    "year": "2001",
+    "event": "All Around",
+    "athlete": "Cody Ohl",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "2002",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Anson, Texas"
+  },
+  {
+    "year": "2003",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2004",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2005",
+    "event": "All Around",
+    "athlete": "Ryan Jarrett",
+    "hometown": "Summerville, Ga."
+  },
+  {
+    "year": "2006",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2007",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2008",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2009",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2010",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2011",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2012",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2013",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2014",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2015",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2016",
+    "event": "All Around",
+    "athlete": "Junior Nogueira",
+    "hometown": "Presidente Prudente, Brazil"
+  },
+  {
+    "year": "2017",
+    "event": "All Around",
+    "athlete": "Tuf Cooper",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2018",
+    "event": "All Around",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2019",
+    "event": "All Around",
+    "athlete": "Stetson Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2020",
+    "event": "All Around",
+    "athlete": "Stetson Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2021",
+    "event": "All Around",
+    "athlete": "Stetson Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2022",
+    "event": "All Around",
+    "athlete": "Stetson Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2023",
+    "event": "All Around",
+    "athlete": "Stetson Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2024",
+    "event": "All Around",
+    "athlete": "Shad Mayfield",
+    "hometown": "Clovis, N.M."
+  },
+  {
+    "year": "1932",
+    "event": "Bareback Riding",
+    "athlete": "Smoky Snyder",
+    "hometown": "Bellflower, Calif."
+  },
+  {
+    "year": "1933",
+    "event": "Bareback Riding",
+    "athlete": "Nate Waldrum",
+    "hometown": "Strathmore, Alberta"
+  },
+  {
+    "year": "1934",
+    "event": "Bareback Riding",
+    "athlete": "Leonard Ward",
+    "hometown": "Talent, Ore."
+  },
+  {
+    "year": "1935",
+    "event": "Bareback Riding",
+    "athlete": "Frank Schneider",
+    "hometown": "Caliente, Calif."
+  },
+  {
+    "year": "1936",
+    "event": "Bareback Riding",
+    "athlete": "Smoky Snyder",
+    "hometown": "Bellflower, Calif."
+  },
+  {
+    "year": "1937",
+    "event": "Bareback Riding",
+    "athlete": "Paul Carney",
+    "hometown": "Galeton, Colo."
+  },
+  {
+    "year": "1938",
+    "event": "Bareback Riding",
+    "athlete": "Pete Grubb",
+    "hometown": "Salmon, Idaho"
+  },
+  {
+    "year": "1939",
+    "event": "Bareback Riding",
+    "athlete": "Paul Carney",
+    "hometown": "Galeton, Colo."
+  },
+  {
+    "year": "1940",
+    "event": "Bareback Riding",
+    "athlete": "Carl Dossey",
+    "hometown": "Phoenix, Ariz."
+  },
+  {
+    "year": "1941",
+    "event": "Bareback Riding",
+    "athlete": "George Mills",
+    "hometown": "Montrose, Colo."
+  },
+  {
+    "year": "1942",
+    "event": "Bareback Riding",
+    "athlete": "Louis Brooks",
+    "hometown": "Pittsburg, Okla."
+  },
+  {
+    "year": "1943",
+    "event": "Bareback Riding",
+    "athlete": "Bill Linderman",
+    "hometown": "Red Lodge, Mont."
+  },
+  {
+    "year": "1944",
+    "event": "Bareback Riding",
+    "athlete": "Louis Brooks",
+    "hometown": "Pittsburg, Okla."
+  },
+  {
+    "year": "1945",
+    "event": "Bareback Riding",
+    "athlete": "Bud Linderman",
+    "hometown": "Red Lodge, Mont."
+  },
+  {
+    "year": "1946",
+    "event": "Bareback Riding",
+    "athlete": "Bud Spealman",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1947",
+    "event": "Bareback Riding",
+    "athlete": "Larry Finley",
+    "hometown": "Phoenix, Ariz."
+  },
+  {
+    "year": "1948",
+    "event": "Bareback Riding",
+    "athlete": "Sonny Tureman",
+    "hometown": "John Day, Ore."
+  },
+  {
+    "year": "1949",
+    "event": "Bareback Riding",
+    "athlete": "Jack Buschbom",
+    "hometown": "Cassville, Wis."
+  },
+  {
+    "year": "1950",
+    "event": "Bareback Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1951",
+    "event": "Bareback Riding",
+    "athlete": "Casey Tibbs",
+    "hometown": "Fort Pierre, S.D."
+  },
+  {
+    "year": "1952",
+    "event": "Bareback Riding",
+    "athlete": "Harry Tompkins",
+    "hometown": "Dublin, Texas"
+  },
+  {
+    "year": "1953",
+    "event": "Bareback Riding",
+    "athlete": "Eddy Akridge",
+    "hometown": "Midland, Texas"
+  },
+  {
+    "year": "1954",
+    "event": "Bareback Riding",
+    "athlete": "Eddy Akridge",
+    "hometown": "Midland, Texas"
+  },
+  {
+    "year": "1955",
+    "event": "Bareback Riding",
+    "athlete": "Eddy Akridge",
+    "hometown": "Midland, Texas"
+  },
+  {
+    "year": "1956",
+    "event": "Bareback Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1957",
+    "event": "Bareback Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1958",
+    "event": "Bareback Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1959",
+    "event": "Bareback Riding",
+    "athlete": "Jack Buschbom",
+    "hometown": "Cassville, Wis."
+  },
+  {
+    "year": "1960",
+    "event": "Bareback Riding",
+    "athlete": "Jack Buschbom",
+    "hometown": "Cassville, Wis."
+  },
+  {
+    "year": "1961",
+    "event": "Bareback Riding",
+    "athlete": "Eddy Akridge",
+    "hometown": "Midland, Texas"
+  },
+  {
+    "year": "1962",
+    "event": "Bareback Riding",
+    "athlete": "Ralph Buell",
+    "hometown": "Sheridan, Wyo."
+  },
+  {
+    "year": "1963",
+    "event": "Bareback Riding",
+    "athlete": "John Hawkins",
+    "hometown": "Twain Harte, Calif."
+  },
+  {
+    "year": "1964",
+    "event": "Bareback Riding",
+    "athlete": "Jim Houston",
+    "hometown": "Omaha, Neb."
+  },
+  {
+    "year": "1965",
+    "event": "Bareback Riding",
+    "athlete": "Jim Houston",
+    "hometown": "Omaha, Neb."
+  },
+  {
+    "year": "1966",
+    "event": "Bareback Riding",
+    "athlete": "Paul Mayo",
+    "hometown": "Grinnell, Iowa"
+  },
+  {
+    "year": "1967",
+    "event": "Bareback Riding",
+    "athlete": "Clyde Vamvoras",
+    "hometown": "Burkburnett, Texas"
+  },
+  {
+    "year": "1968",
+    "event": "Bareback Riding",
+    "athlete": "Clyde Vamvoras",
+    "hometown": "Burkburnett, Texas"
+  },
+  {
+    "year": "1969",
+    "event": "Bareback Riding",
+    "athlete": "Gary Tucker",
+    "hometown": "Carlsbad, N.M."
+  },
+  {
+    "year": "1970",
+    "event": "Bareback Riding",
+    "athlete": "Paul Mayo",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1971",
+    "event": "Bareback Riding",
+    "athlete": "Joe Alexander",
+    "hometown": "Cora, Wyo."
+  },
+  {
+    "year": "1972",
+    "event": "Bareback Riding",
+    "athlete": "Joe Alexander",
+    "hometown": "Cora, Wyo."
+  },
+  {
+    "year": "1973",
+    "event": "Bareback Riding",
+    "athlete": "Joe Alexander",
+    "hometown": "Cora, Wyo."
+  },
+  {
+    "year": "1974",
+    "event": "Bareback Riding",
+    "athlete": "Joe Alexander",
+    "hometown": "Cora, Wyo."
+  },
+  {
+    "year": "1975",
+    "event": "Bareback Riding",
+    "athlete": "Joe Alexander",
+    "hometown": "Cora, Wyo."
+  },
+  {
+    "year": "1976",
+    "event": "Bareback Riding",
+    "athlete": "Chris LeDoux",
+    "hometown": "Kaycee, Wyo."
+  },
+  {
+    "year": "1977",
+    "event": "Bareback Riding",
+    "athlete": "Jack Ward Jr.",
+    "hometown": "Springdale, Ark."
+  },
+  {
+    "year": "1978",
+    "event": "Bareback Riding",
+    "athlete": "Jack Ward Jr.",
+    "hometown": "Springdale, Ark."
+  },
+  {
+    "year": "1979",
+    "event": "Bareback Riding",
+    "athlete": "Bruce Ford",
+    "hometown": "Evans, Colo."
+  },
+  {
+    "year": "1980",
+    "event": "Bareback Riding",
+    "athlete": "Bruce Ford",
+    "hometown": "Kersey, Colo."
+  },
+  {
+    "year": "1981",
+    "event": "Bareback Riding",
+    "athlete": "J.C. Trujillo",
+    "hometown": "Steamboat Springs, Colo."
+  },
+  {
+    "year": "1982",
+    "event": "Bareback Riding",
+    "athlete": "Bruce Ford",
+    "hometown": "Kersey, Colo."
+  },
+  {
+    "year": "1983",
+    "event": "Bareback Riding",
+    "athlete": "Bruce Ford",
+    "hometown": "Kersey, Colo."
+  },
+  {
+    "year": "1984",
+    "event": "Bareback Riding",
+    "athlete": "Larry Peabody",
+    "hometown": "Three Forks, Mont."
+  },
+  {
+    "year": "1985",
+    "event": "Bareback Riding",
+    "athlete": "Lewis Feild",
+    "hometown": "Elk Ridge, Utah"
+  },
+  {
+    "year": "1986",
+    "event": "Bareback Riding",
+    "athlete": "Lewis Feild",
+    "hometown": "Elk Ridge, Utah"
+  },
+  {
+    "year": "1987",
+    "event": "Bareback Riding",
+    "athlete": "Bruce Ford",
+    "hometown": "Kersey, Colo."
+  },
+  {
+    "year": "1988",
+    "event": "Bareback Riding",
+    "athlete": "Marvin Garrett",
+    "hometown": "Gillette, Wyo."
+  },
+  {
+    "year": "1989",
+    "event": "Bareback Riding",
+    "athlete": "Marvin Garrett",
+    "hometown": "Belle Fourche, S.D."
+  },
+  {
+    "year": "1990",
+    "event": "Bareback Riding",
+    "athlete": "Chuck Logue",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "1991",
+    "event": "Bareback Riding",
+    "athlete": "Clint Corey",
+    "hometown": "Kennewick, Wash."
+  },
+  {
+    "year": "1992",
+    "event": "Bareback Riding",
+    "athlete": "Wayne Herman",
+    "hometown": "Dickinson, N.D."
+  },
+  {
+    "year": "1993",
+    "event": "Bareback Riding",
+    "athlete": "Deb Greenough",
+    "hometown": "Red Lodge, Mont."
+  },
+  {
+    "year": "1994",
+    "event": "Bareback Riding",
+    "athlete": "Marvin Garrett",
+    "hometown": "Belle Fourche, S.D."
+  },
+  {
+    "year": "1995",
+    "event": "Bareback Riding",
+    "athlete": "Marvin Garrett",
+    "hometown": "Belle Fourche, S.D."
+  },
+  {
+    "year": "1996",
+    "event": "Bareback Riding",
+    "athlete": "Mark Garrett",
+    "hometown": "Spearfish, S.D."
+  },
+  {
+    "year": "1997",
+    "event": "Bareback Riding",
+    "athlete": "Eric Mouton",
+    "hometown": "Weatherford, Okla."
+  },
+  {
+    "year": "1998",
+    "event": "Bareback Riding",
+    "athlete": "Mark Gomes",
+    "hometown": "Hutchinson, Kan."
+  },
+  {
+    "year": "1999",
+    "event": "Bareback Riding",
+    "athlete": "Lan LaJeunesse",
+    "hometown": "Morgan, Utah"
+  },
+  {
+    "year": "2000",
+    "event": "Bareback Riding",
+    "athlete": "Jeffrey Collins",
+    "hometown": "Redfield, Kan."
+  },
+  {
+    "year": "2001",
+    "event": "Bareback Riding",
+    "athlete": "Lan LaJeunesse",
+    "hometown": "Morgan, Utah"
+  },
+  {
+    "year": "2002",
+    "event": "Bareback Riding",
+    "athlete": "Bobby Mote",
+    "hometown": "Redmond, Ore."
+  },
+  {
+    "year": "2003",
+    "event": "Bareback Riding",
+    "athlete": "Will Lowe",
+    "hometown": "Canyon, Texas"
+  },
+  {
+    "year": "2004",
+    "event": "Bareback Riding",
+    "athlete": "Kelly Timberman",
+    "hometown": "Mills, Wyo."
+  },
+  {
+    "year": "2005",
+    "event": "Bareback Riding",
+    "athlete": "Will Lowe",
+    "hometown": "Canyon, Texas"
+  },
+  {
+    "year": "2006",
+    "event": "Bareback Riding",
+    "athlete": "Will Lowe",
+    "hometown": "Canyon, Texas"
+  },
+  {
+    "year": "2007",
+    "event": "Bareback Riding",
+    "athlete": "Bobby Mote",
+    "hometown": "Culver, Ore."
+  },
+  {
+    "year": "2008",
+    "event": "Bareback Riding",
+    "athlete": "Justin McDaniel",
+    "hometown": "Porum, Okla."
+  },
+  {
+    "year": "2009",
+    "event": "Bareback Riding",
+    "athlete": "Bobby Mote",
+    "hometown": "Culver, Ore."
+  },
+  {
+    "year": "2010",
+    "event": "Bareback Riding",
+    "athlete": "Bobby Mote",
+    "hometown": "Culver, Ore."
+  },
+  {
+    "year": "2011",
+    "event": "Bareback Riding",
+    "athlete": "Kaycee Feild",
+    "hometown": "Payson, Utah"
+  },
+  {
+    "year": "2012",
+    "event": "Bareback Riding",
+    "athlete": "Kaycee Feild",
+    "hometown": "Spanish Fork, Utah"
+  },
+  {
+    "year": "2013",
+    "event": "Bareback Riding",
+    "athlete": "Kaycee Feild",
+    "hometown": "Spanish Fork, Utah"
+  },
+  {
+    "year": "2014",
+    "event": "Bareback Riding",
+    "athlete": "Kaycee Feild",
+    "hometown": "Spanish Fork, Utah"
+  },
+  {
+    "year": "2015",
+    "event": "Bareback Riding",
+    "athlete": "Steven Peebles",
+    "hometown": "Redmond, Ore."
+  },
+  {
+    "year": "2016",
+    "event": "Bareback Riding",
+    "athlete": "Tim O'Connell",
+    "hometown": "Zwingle, Iowa"
+  },
+  {
+    "year": "2017",
+    "event": "Bareback Riding",
+    "athlete": "Tim O'Connell",
+    "hometown": "Zwingle, Iowa"
+  },
+  {
+    "year": "2018",
+    "event": "Bareback Riding",
+    "athlete": "Tim O'Connell",
+    "hometown": "Zwingle, Iowa"
+  },
+  {
+    "year": "2019",
+    "event": "Bareback Riding",
+    "athlete": "Clayton Biglow",
+    "hometown": "Clements, Calif."
+  },
+  {
+    "year": "2020",
+    "event": "Bareback Riding",
+    "athlete": "Kaycee Feild",
+    "hometown": "Genola, Utah"
+  },
+  {
+    "year": "2021",
+    "event": "Bareback Riding",
+    "athlete": "Kaycee Feild",
+    "hometown": "Genola, Utah"
+  },
+  {
+    "year": "2022",
+    "event": "Bareback Riding",
+    "athlete": "Jess Pope",
+    "hometown": "Waverly, Kan."
+  },
+  {
+    "year": "2023",
+    "event": "Bareback Riding",
+    "athlete": "Keenan Hayes",
+    "hometown": "Hayden, Colo."
+  },
+  {
+    "year": "2024",
+    "event": "Bareback Riding",
+    "athlete": "Dean Thompson",
+    "hometown": "Altamont, Utah"
+  },
+  {
+    "year": "1929",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Earl Thode",
+    "hometown": "Belvidere, S.D."
+  },
+  {
+    "year": "1930",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Clay Carr",
+    "hometown": "Visalia, Calif."
+  },
+  {
+    "year": "1931",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Earl Thode",
+    "hometown": "Belvidere, S.D."
+  },
+  {
+    "year": "1932",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Pete Knight",
+    "hometown": "Crossfield, Alberta"
+  },
+  {
+    "year": "1933",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Pete Knight",
+    "hometown": "Crossfield, Alberta"
+  },
+  {
+    "year": "1934",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Leonard Ward",
+    "hometown": "Talent, Ore."
+  },
+  {
+    "year": "1935",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Pete Knight",
+    "hometown": "Crossfield, Alberta"
+  },
+  {
+    "year": "1936",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Pete Knight",
+    "hometown": "Crossfield, Alberta"
+  },
+  {
+    "year": "1937",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Burel Mulkey",
+    "hometown": "Salmon, Idaho"
+  },
+  {
+    "year": "1938",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Burel Mulkey",
+    "hometown": "Salmon, Idaho"
+  },
+  {
+    "year": "1939",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Fritz Truan",
+    "hometown": "Long Beach, Calif."
+  },
+  {
+    "year": "1940",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Fritz Truan",
+    "hometown": "Long Beach, Calif."
+  },
+  {
+    "year": "1941",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Doff Aber",
+    "hometown": "Wolf, Wyo."
+  },
+  {
+    "year": "1942",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Doff Aber",
+    "hometown": "Wolf, Wyo."
+  },
+  {
+    "year": "1943",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Louis Brooks",
+    "hometown": "Pittsburg, Okla."
+  },
+  {
+    "year": "1944",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Louis Brooks",
+    "hometown": "Pittsburg, Okla."
+  },
+  {
+    "year": "1945",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Bill Linderman",
+    "hometown": "Red Lodge, Mont."
+  },
+  {
+    "year": "1946",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Jerry Ambler",
+    "hometown": "Glenwood, Wash."
+  },
+  {
+    "year": "1947",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Carl Olson",
+    "hometown": "Calgary, Alberta"
+  },
+  {
+    "year": "1948",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Gene Pruett",
+    "hometown": "Tieton, Wash."
+  },
+  {
+    "year": "1949",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Casey Tibbs",
+    "hometown": "Fort Pierre, S.D."
+  },
+  {
+    "year": "1950",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Bill Linderman",
+    "hometown": "Red Lodge, Mont."
+  },
+  {
+    "year": "1951",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Casey Tibbs",
+    "hometown": "Fort Pierre, S.D."
+  },
+  {
+    "year": "1952",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Casey Tibbs",
+    "hometown": "Fort Pierre, S.D."
+  },
+  {
+    "year": "1953",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Casey Tibbs",
+    "hometown": "Fort Pierre, S.D."
+  },
+  {
+    "year": "1954",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Casey Tibbs",
+    "hometown": "Fort Pierre, S.D."
+  },
+  {
+    "year": "1955",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Deb Copenhaver",
+    "hometown": "Post Falls, Idaho"
+  },
+  {
+    "year": "1956",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Deb Copenhaver",
+    "hometown": "Post Falls, Idaho"
+  },
+  {
+    "year": "1957",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Alvin Nelson",
+    "hometown": "Sentinel Butte, N.D."
+  },
+  {
+    "year": "1958",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Marty Wood",
+    "hometown": "Bowness, Alberta"
+  },
+  {
+    "year": "1959",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Casey Tibbs",
+    "hometown": "Fort Pierre, S.D."
+  },
+  {
+    "year": "1960",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Enoch Walker",
+    "hometown": "Cody, Wyo."
+  },
+  {
+    "year": "1961",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Winston Bruce",
+    "hometown": "Calgary, Alberta"
+  },
+  {
+    "year": "1962",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Kenny McLean",
+    "hometown": "Okanagan Falls, B.C."
+  },
+  {
+    "year": "1963",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Guy Weeks",
+    "hometown": "Abilene, Texas"
+  },
+  {
+    "year": "1964",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Marty Wood",
+    "hometown": "Bowness, Alberta"
+  },
+  {
+    "year": "1965",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Shawn Davis",
+    "hometown": "Whitehall, Mont."
+  },
+  {
+    "year": "1966",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Marty Wood",
+    "hometown": "Bowness, Alberta"
+  },
+  {
+    "year": "1967",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Shawn Davis",
+    "hometown": "Whitehall, Mont."
+  },
+  {
+    "year": "1968",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Shawn Davis",
+    "hometown": "Whitehall, Mont."
+  },
+  {
+    "year": "1969",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Bill Smith",
+    "hometown": "Cody, Wyo."
+  },
+  {
+    "year": "1970",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Dennis Reiners",
+    "hometown": "Scottsdale, Ariz."
+  },
+  {
+    "year": "1971",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Bill Smith",
+    "hometown": "Cody, Wyo."
+  },
+  {
+    "year": "1972",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Mel Hyland",
+    "hometown": "Surrey, B.C."
+  },
+  {
+    "year": "1973",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Bill Smith",
+    "hometown": "Cody, Wyo."
+  },
+  {
+    "year": "1974",
+    "event": "Saddle Bronc Riding",
+    "athlete": "John McBeth",
+    "hometown": "Burden, Kan."
+  },
+  {
+    "year": "1975",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Monty Henson",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1976",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Mel Hyland",
+    "hometown": "Salmon Arm, B.C. (tie)"
+  },
+  {
+    "year": "1976",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Monty Henson",
+    "hometown": "Mesquite, Texas (tie)"
+  },
+  {
+    "year": "1977",
+    "event": "Saddle Bronc Riding",
+    "athlete": "J.C. Bonine",
+    "hometown": "Hysham, Mont."
+  },
+  {
+    "year": "1978",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Joe Marvel",
+    "hometown": "Battle Mountain, Nev."
+  },
+  {
+    "year": "1979",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Bobby Berger",
+    "hometown": "Lexington, Okla."
+  },
+  {
+    "year": "1980",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Clint Johnson",
+    "hometown": "Spearfish, S.D."
+  },
+  {
+    "year": "1981",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Brad Gjermundson",
+    "hometown": "Marshall, N.D."
+  },
+  {
+    "year": "1982",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Monty Henson",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1983",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Brad Gjermundson",
+    "hometown": "Marshall, N.D."
+  },
+  {
+    "year": "1984",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Brad Gjermundson",
+    "hometown": "Marshall, N.D."
+  },
+  {
+    "year": "1985",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Brad Gjermundson",
+    "hometown": "Marshall, N.D."
+  },
+  {
+    "year": "1986",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Bud Munroe",
+    "hometown": "Valley Mills, Texas"
+  },
+  {
+    "year": "1987",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Clint Johnson",
+    "hometown": "Spearfish, S.D."
+  },
+  {
+    "year": "1988",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Clint Johnson",
+    "hometown": "Spearfish, S.D."
+  },
+  {
+    "year": "1989",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Clint Johnson",
+    "hometown": "Spearfish, S.D."
+  },
+  {
+    "year": "1990",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Robert Etbauer",
+    "hometown": "Ree Heights, S.D."
+  },
+  {
+    "year": "1991",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Robert Etbauer",
+    "hometown": "Goodwell, Okla."
+  },
+  {
+    "year": "1992",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Billy Etbauer",
+    "hometown": "Ree Heights, S.D."
+  },
+  {
+    "year": "1993",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Dan Mortensen",
+    "hometown": "Manhattan, Mont."
+  },
+  {
+    "year": "1994",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Dan Mortensen",
+    "hometown": "Manhattan, Mont."
+  },
+  {
+    "year": "1995",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Dan Mortensen",
+    "hometown": "Manhattan, Mont."
+  },
+  {
+    "year": "1996",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Billy Etbauer",
+    "hometown": "Ree Heights, S.D."
+  },
+  {
+    "year": "1997",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Dan Mortensen",
+    "hometown": "Manhattan, Mont."
+  },
+  {
+    "year": "1998",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Dan Mortensen",
+    "hometown": "Manhattan, Mont."
+  },
+  {
+    "year": "1999",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Billy Etbauer",
+    "hometown": "Ree Heights, S.D."
+  },
+  {
+    "year": "2000",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Billy Etbauer",
+    "hometown": "Edmond, Okla."
+  },
+  {
+    "year": "2001",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Tom Reeves",
+    "hometown": "Eagle Butte, S.D."
+  },
+  {
+    "year": "2002",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Glen O’Neill",
+    "hometown": "Didsbury, Alberta"
+  },
+  {
+    "year": "2003",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Dan Mortensen",
+    "hometown": "Billings, Mont."
+  },
+  {
+    "year": "2004",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Billy Etbauer",
+    "hometown": "Edmond, Okla."
+  },
+  {
+    "year": "2005",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Jeff Willert",
+    "hometown": "Belvidere, S.D."
+  },
+  {
+    "year": "2006",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Chad Ferley",
+    "hometown": "Oelrichs, S.D."
+  },
+  {
+    "year": "2007",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Taos Muncy",
+    "hometown": "Corona, N.M."
+  },
+  {
+    "year": "2008",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Cody Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2009",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Jesse Kruse",
+    "hometown": "Great Falls, Mont."
+  },
+  {
+    "year": "2010",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Cody Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2011",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Taos Muncy",
+    "hometown": "Corona, N.M."
+  },
+  {
+    "year": "2012",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Jesse Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2013",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Chad Ferley",
+    "hometown": "Oelrichs, S.D."
+  },
+  {
+    "year": "2014",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Spencer Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2015",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Jacobs Crawley",
+    "hometown": "Boerne, Texas"
+  },
+  {
+    "year": "2016",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Zeke Thurston",
+    "hometown": "Big Valley, Alberta"
+  },
+  {
+    "year": "2017",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Ryder Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2018",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Wade Sundell",
+    "hometown": "Boxholm, Iowa"
+  },
+  {
+    "year": "2019",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Zeke Thurston",
+    "hometown": "Big Valley, Alberta"
+  },
+  {
+    "year": "2020",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Ryder Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2021",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Stetson Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2022",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Zeke Thurston",
+    "hometown": "Big Valley, Alberta"
+  },
+  {
+    "year": "2023",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Zeke Thurston",
+    "hometown": "Big Valley, Alberta"
+  },
+  {
+    "year": "2024",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Ryder Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "1929",
+    "event": "Steer Wrestling",
+    "athlete": "Gene Ross",
+    "hometown": "Sayre, Okla."
+  },
+  {
+    "year": "1930",
+    "event": "Steer Wrestling",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1931",
+    "event": "Steer Wrestling",
+    "athlete": "Gene Ross",
+    "hometown": "Sayre, Okla."
+  },
+  {
+    "year": "1932",
+    "event": "Steer Wrestling",
+    "athlete": "Hugh Bennett",
+    "hometown": "Fort Thomas, Ariz."
+  },
+  {
+    "year": "1933",
+    "event": "Steer Wrestling",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1934",
+    "event": "Steer Wrestling",
+    "athlete": "Shorty Ricker",
+    "hometown": "Ranger, Texas"
+  },
+  {
+    "year": "1935",
+    "event": "Steer Wrestling",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1936",
+    "event": "Steer Wrestling",
+    "athlete": "Jack Kerschner",
+    "hometown": "Miles City, Mont."
+  },
+  {
+    "year": "1937",
+    "event": "Steer Wrestling",
+    "athlete": "Gene Ross",
+    "hometown": "Sayre, Okla."
+  },
+  {
+    "year": "1938",
+    "event": "Steer Wrestling",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1939",
+    "event": "Steer Wrestling",
+    "athlete": "Harry Hart",
+    "hometown": "Pocatello, Idaho"
+  },
+  {
+    "year": "1940",
+    "event": "Steer Wrestling",
+    "athlete": "Homer Pettigrew",
+    "hometown": "Grady, N.M."
+  },
+  {
+    "year": "1941",
+    "event": "Steer Wrestling",
+    "athlete": "Hub Whiteman",
+    "hometown": "Clarksville, Texas"
+  },
+  {
+    "year": "1942",
+    "event": "Steer Wrestling",
+    "athlete": "Homer Pettigrew",
+    "hometown": "Grady, N.M."
+  },
+  {
+    "year": "1943",
+    "event": "Steer Wrestling",
+    "athlete": "Homer Pettigrew",
+    "hometown": "Grady, N.M."
+  },
+  {
+    "year": "1944",
+    "event": "Steer Wrestling",
+    "athlete": "Homer Pettigrew",
+    "hometown": "Grady, N.M."
+  },
+  {
+    "year": "1945",
+    "event": "Steer Wrestling",
+    "athlete": "Homer Pettigrew",
+    "hometown": "Grady, N.M."
+  },
+  {
+    "year": "1946",
+    "event": "Steer Wrestling",
+    "athlete": "Dave Campbell",
+    "hometown": "Las Vegas, Nev."
+  },
+  {
+    "year": "1947",
+    "event": "Steer Wrestling",
+    "athlete": "Todd Whatley",
+    "hometown": "Hugo, Okla."
+  },
+  {
+    "year": "1948",
+    "event": "Steer Wrestling",
+    "athlete": "Homer Pettigrew",
+    "hometown": "Grady, N.M."
+  },
+  {
+    "year": "1949",
+    "event": "Steer Wrestling",
+    "athlete": "Bill McGuire",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1950",
+    "event": "Steer Wrestling",
+    "athlete": "Bill Linderman",
+    "hometown": "Red Lodge, Mont."
+  },
+  {
+    "year": "1951",
+    "event": "Steer Wrestling",
+    "athlete": "Dub Phillips",
+    "hometown": "San Angelo, Texas"
+  },
+  {
+    "year": "1952",
+    "event": "Steer Wrestling",
+    "athlete": "Harley May",
+    "hometown": "Oakdale, Calif."
+  },
+  {
+    "year": "1953",
+    "event": "Steer Wrestling",
+    "athlete": "Ross Dollarhide",
+    "hometown": "Lakeview, Ore."
+  },
+  {
+    "year": "1954",
+    "event": "Steer Wrestling",
+    "athlete": "Jim Bynum",
+    "hometown": "Forreston, Texas"
+  },
+  {
+    "year": "1955",
+    "event": "Steer Wrestling",
+    "athlete": "Benny Combs",
+    "hometown": "Checotah, Okla."
+  },
+  {
+    "year": "1956",
+    "event": "Steer Wrestling",
+    "athlete": "Harley May",
+    "hometown": "Oakdale, Calif."
+  },
+  {
+    "year": "1957",
+    "event": "Steer Wrestling",
+    "athlete": "Willard Combs",
+    "hometown": "Checotah, Okla."
+  },
+  {
+    "year": "1958",
+    "event": "Steer Wrestling",
+    "athlete": "Jim Bynum",
+    "hometown": "Forreston, Texas"
+  },
+  {
+    "year": "1959",
+    "event": "Steer Wrestling",
+    "athlete": "Harry Charters",
+    "hometown": "Melba, Idaho"
+  },
+  {
+    "year": "1960",
+    "event": "Steer Wrestling",
+    "athlete": "Bob A. Robinson",
+    "hometown": "Rockland, Idaho"
+  },
+  {
+    "year": "1961",
+    "event": "Steer Wrestling",
+    "athlete": "Jim Bynum",
+    "hometown": "Forreston, Texas"
+  },
+  {
+    "year": "1962",
+    "event": "Steer Wrestling",
+    "athlete": "Tom Nesmith",
+    "hometown": "Bethel, Okla."
+  },
+  {
+    "year": "1963",
+    "event": "Steer Wrestling",
+    "athlete": "Jim Bynum",
+    "hometown": "Waxahatchie, Texas"
+  },
+  {
+    "year": "1964",
+    "event": "Steer Wrestling",
+    "athlete": "C.R. Boucher",
+    "hometown": "Burkburnett, Texas"
+  },
+  {
+    "year": "1965",
+    "event": "Steer Wrestling",
+    "athlete": "Harley May",
+    "hometown": "Oakdale, Calif."
+  },
+  {
+    "year": "1966",
+    "event": "Steer Wrestling",
+    "athlete": "Jack Roddy",
+    "hometown": "San Jose, Calif."
+  },
+  {
+    "year": "1967",
+    "event": "Steer Wrestling",
+    "athlete": "Roy Duvall",
+    "hometown": "Boynton, Okla."
+  },
+  {
+    "year": "1968",
+    "event": "Steer Wrestling",
+    "athlete": "Jack Roddy",
+    "hometown": "San Jose, Calif."
+  },
+  {
+    "year": "1969",
+    "event": "Steer Wrestling",
+    "athlete": "Roy Duvall",
+    "hometown": "Boynton, Okla."
+  },
+  {
+    "year": "1970",
+    "event": "Steer Wrestling",
+    "athlete": "John W. Jones Sr.",
+    "hometown": "Morro Bay, Calif."
+  },
+  {
+    "year": "1971",
+    "event": "Steer Wrestling",
+    "athlete": "Billy Hale",
+    "hometown": "Checotah, Okla."
+  },
+  {
+    "year": "1972",
+    "event": "Steer Wrestling",
+    "athlete": "Roy Duvall",
+    "hometown": "Warner, Okla."
+  },
+  {
+    "year": "1973",
+    "event": "Steer Wrestling",
+    "athlete": "Bob Marshall",
+    "hometown": "San Martin, Calif."
+  },
+  {
+    "year": "1974",
+    "event": "Steer Wrestling",
+    "athlete": "Tommy Puryear",
+    "hometown": "Norman, Okla."
+  },
+  {
+    "year": "1975",
+    "event": "Steer Wrestling",
+    "athlete": "Frank Shepperson",
+    "hometown": "Midwest, Wyo."
+  },
+  {
+    "year": "1976",
+    "event": "Steer Wrestling",
+    "athlete": "Rick Bradley",
+    "hometown": "Burkburnett, Texas"
+  },
+  {
+    "year": "1977",
+    "event": "Steer Wrestling",
+    "athlete": "Tom Ferguson",
+    "hometown": "Miami, Okla."
+  },
+  {
+    "year": "1978",
+    "event": "Steer Wrestling",
+    "athlete": "Tom Ferguson",
+    "hometown": "Miami, Okla."
+  },
+  {
+    "year": "1979",
+    "event": "Steer Wrestling",
+    "athlete": "Stan Williamson",
+    "hometown": "Kellyville, Okla."
+  },
+  {
+    "year": "1980",
+    "event": "Steer Wrestling",
+    "athlete": "Butch Myers",
+    "hometown": "Welda, Kan."
+  },
+  {
+    "year": "1981",
+    "event": "Steer Wrestling",
+    "athlete": "Byron Walker",
+    "hometown": "Ennis, Texas"
+  },
+  {
+    "year": "1982",
+    "event": "Steer Wrestling",
+    "athlete": "Stan Williamson",
+    "hometown": "Kellyville, Okla."
+  },
+  {
+    "year": "1983",
+    "event": "Steer Wrestling",
+    "athlete": "Joel Edmondson",
+    "hometown": "Columbus, Kan."
+  },
+  {
+    "year": "1984",
+    "event": "Steer Wrestling",
+    "athlete": "John W. Jones Jr.",
+    "hometown": "Morro Bay, Calif."
+  },
+  {
+    "year": "1985",
+    "event": "Steer Wrestling",
+    "athlete": "Ote Berry",
+    "hometown": "Gordon, Neb."
+  },
+  {
+    "year": "1986",
+    "event": "Steer Wrestling",
+    "athlete": "Steve Duhon",
+    "hometown": "Opelousas, La."
+  },
+  {
+    "year": "1987",
+    "event": "Steer Wrestling",
+    "athlete": "Steve Duhon",
+    "hometown": "Opelousas, La."
+  },
+  {
+    "year": "1988",
+    "event": "Steer Wrestling",
+    "athlete": "John W. Jones Jr.",
+    "hometown": "Morro Bay, Calif."
+  },
+  {
+    "year": "1989",
+    "event": "Steer Wrestling",
+    "athlete": "John W. Jones Jr.",
+    "hometown": "Morro Bay, Calif."
+  },
+  {
+    "year": "1990",
+    "event": "Steer Wrestling",
+    "athlete": "Ote Berry",
+    "hometown": "Checotah, Okla."
+  },
+  {
+    "year": "1991",
+    "event": "Steer Wrestling",
+    "athlete": "Ote Berry",
+    "hometown": "Checotah, Okla."
+  },
+  {
+    "year": "1992",
+    "event": "Steer Wrestling",
+    "athlete": "Mark Roy",
+    "hometown": "Dalemead, Alberta"
+  },
+  {
+    "year": "1993",
+    "event": "Steer Wrestling",
+    "athlete": "Steve Duhon",
+    "hometown": "Opelousas, La."
+  },
+  {
+    "year": "1994",
+    "event": "Steer Wrestling",
+    "athlete": "Blaine Pederson",
+    "hometown": "Amisk, Alberta"
+  },
+  {
+    "year": "1995",
+    "event": "Steer Wrestling",
+    "athlete": "Ote Berry",
+    "hometown": "Checotah, Okla."
+  },
+  {
+    "year": "1996",
+    "event": "Steer Wrestling",
+    "athlete": "Chad Bedell",
+    "hometown": "Jensen, Utah"
+  },
+  {
+    "year": "1997",
+    "event": "Steer Wrestling",
+    "athlete": "Brad Gleason",
+    "hometown": "Touchet, Wash."
+  },
+  {
+    "year": "1998",
+    "event": "Steer Wrestling",
+    "athlete": "Mike Smith",
+    "hometown": "Baton Rouge, La."
+  },
+  {
+    "year": "1999",
+    "event": "Steer Wrestling",
+    "athlete": "Mickey Gee",
+    "hometown": "Wichita Falls, Texas"
+  },
+  {
+    "year": "2000",
+    "event": "Steer Wrestling",
+    "athlete": "Frank Thompson",
+    "hometown": "Cheyenne, Wyo."
+  },
+  {
+    "year": "2001",
+    "event": "Steer Wrestling",
+    "athlete": "Rope Myers",
+    "hometown": "Van, Texas"
+  },
+  {
+    "year": "2002",
+    "event": "Steer Wrestling",
+    "athlete": "Sid Steiner",
+    "hometown": "Bastrop, Texas"
+  },
+  {
+    "year": "2003",
+    "event": "Steer Wrestling",
+    "athlete": "Teddy Johnson",
+    "hometown": "Checotah, Okla."
+  },
+  {
+    "year": "2004",
+    "event": "Steer Wrestling",
+    "athlete": "Luke Branquinho",
+    "hometown": "Los Alamos, Calif."
+  },
+  {
+    "year": "2005",
+    "event": "Steer Wrestling",
+    "athlete": "Lee Graves",
+    "hometown": "Calgary, Alberta"
+  },
+  {
+    "year": "2006",
+    "event": "Steer Wrestling",
+    "athlete": "Dean Gorsuch",
+    "hometown": "Gering, Neb."
+  },
+  {
+    "year": "2007",
+    "event": "Steer Wrestling",
+    "athlete": "Jason Miller",
+    "hometown": "Lance Creek, Wyo."
+  },
+  {
+    "year": "2008",
+    "event": "Steer Wrestling",
+    "athlete": "Luke Branquinho",
+    "hometown": "Los Alamos, Calif."
+  },
+  {
+    "year": "2009",
+    "event": "Steer Wrestling",
+    "athlete": "Lee Graves",
+    "hometown": "Calgary, Alberta"
+  },
+  {
+    "year": "2010",
+    "event": "Steer Wrestling",
+    "athlete": "Dean Gorsuch",
+    "hometown": "Gering, Neb."
+  },
+  {
+    "year": "2011",
+    "event": "Steer Wrestling",
+    "athlete": "Luke Branquinho",
+    "hometown": "Los Alamos, Calif."
+  },
+  {
+    "year": "2012",
+    "event": "Steer Wrestling",
+    "athlete": "Luke Branquinho",
+    "hometown": "Los Alamos, Calif."
+  },
+  {
+    "year": "2013",
+    "event": "Steer Wrestling",
+    "athlete": "Hunter Cure",
+    "hometown": "Holliday, Texas"
+  },
+  {
+    "year": "2014",
+    "event": "Steer Wrestling",
+    "athlete": "Luke Branquinho",
+    "hometown": "Los Alamos, Calif."
+  },
+  {
+    "year": "2015",
+    "event": "Steer Wrestling",
+    "athlete": "Hunter Cure",
+    "hometown": "Holliday, Texas"
+  },
+  {
+    "year": "2016",
+    "event": "Steer Wrestling",
+    "athlete": "Tyler Waguespack",
+    "hometown": "Gonzales, La."
+  },
+  {
+    "year": "2017",
+    "event": "Steer Wrestling",
+    "athlete": "Tyler Pearson",
+    "hometown": "Louisville, Miss."
+  },
+  {
+    "year": "2018",
+    "event": "Steer Wrestling",
+    "athlete": "Tyler Waguespack",
+    "hometown": "Gonzales, La."
+  },
+  {
+    "year": "2019",
+    "event": "Steer Wrestling",
+    "athlete": "Ty Erickson",
+    "hometown": "Helena, Mont."
+  },
+  {
+    "year": "2020",
+    "event": "Steer Wrestling",
+    "athlete": "Jacob Edler",
+    "hometown": "Alva, Okla."
+  },
+  {
+    "year": "2021",
+    "event": "Steer Wrestling",
+    "athlete": "Tyler Waguespack",
+    "hometown": "Gonzales, La."
+  },
+  {
+    "year": "2022",
+    "event": "Steer Wrestling",
+    "athlete": "Tyler Waguespack",
+    "hometown": "Gonzales, La."
+  },
+  {
+    "year": "2023",
+    "event": "Steer Wrestling",
+    "athlete": "Tyler Waguespack",
+    "hometown": "Gonzales, La."
+  },
+  {
+    "year": "2024",
+    "event": "Steer Wrestling",
+    "athlete": "J.D. Struxness",
+    "hometown": "Milan, Minn."
+  },
+  {
+    "year": "1929",
+    "event": "Team Roping",
+    "athlete": "Charles Maggini",
+    "hometown": "San Jose, Calif."
+  },
+  {
+    "year": "1930",
+    "event": "Team Roping",
+    "athlete": "Norman Cowan",
+    "hometown": "Gresham, Ore."
+  },
+  {
+    "year": "1931",
+    "event": "Team Roping",
+    "athlete": "Arthur Beloat",
+    "hometown": "Buckeye, Ariz."
+  },
+  {
+    "year": "1932",
+    "event": "Team Roping",
+    "athlete": "Ace Gardner",
+    "hometown": "Coolidge, Ariz."
+  },
+  {
+    "year": "1933",
+    "event": "Team Roping",
+    "athlete": "Roy Adams",
+    "hometown": "Tucson, Ariz."
+  },
+  {
+    "year": "1934",
+    "event": "Team Roping",
+    "athlete": "Andy Jauregui",
+    "hometown": "Newhall, Calif."
+  },
+  {
+    "year": "1935",
+    "event": "Team Roping",
+    "athlete": "Lawrence Conley",
+    "hometown": "Prescott, Ariz."
+  },
+  {
+    "year": "1936",
+    "event": "Team Roping",
+    "athlete": "John Rhodes",
+    "hometown": "Sombrero Butte, Ariz."
+  },
+  {
+    "year": "1937",
+    "event": "Team Roping",
+    "athlete": "Asbury Schell",
+    "hometown": "Camp Verde, Ariz."
+  },
+  {
+    "year": "1938",
+    "event": "Team Roping",
+    "athlete": "John Rhodes",
+    "hometown": "Sombrero Butte, Ariz."
+  },
+  {
+    "year": "1939",
+    "event": "Team Roping",
+    "athlete": "Asbury Schell",
+    "hometown": "Camp Verde, Ariz."
+  },
+  {
+    "year": "1940",
+    "event": "Team Roping",
+    "athlete": "Pete Grubb",
+    "hometown": "Salmon, Idaho"
+  },
+  {
+    "year": "1941",
+    "event": "Team Roping",
+    "athlete": "Jim Hudson",
+    "hometown": "Wilcox, Ariz."
+  },
+  {
+    "year": "1942",
+    "event": "Team Roping",
+    "athlete": "Vern Castro",
+    "hometown": "Livermore, Calif."
+  },
+  {
+    "year": "1942",
+    "event": "Team Roping",
+    "athlete": "Vic Castro",
+    "hometown": "Livermore, Calif."
+  },
+  {
+    "year": "1943",
+    "event": "Team Roping",
+    "athlete": "Mark Hull",
+    "hometown": "Stockton, Calif."
+  },
+  {
+    "year": "1943",
+    "event": "Team Roping",
+    "athlete": "Leonard Block",
+    "hometown": "Denair, Calif."
+  },
+  {
+    "year": "1944",
+    "event": "Team Roping",
+    "athlete": "Murphy Chaney",
+    "hometown": "Shandon, Calif."
+  },
+  {
+    "year": "1945",
+    "event": "Team Roping",
+    "athlete": "Ernest Gill",
+    "hometown": "Madera, Calif."
+  },
+  {
+    "year": "1946",
+    "event": "Team Roping",
+    "athlete": "Chuck Sheppard",
+    "hometown": "Phoenix, Ariz."
+  },
+  {
+    "year": "1947",
+    "event": "Team Roping",
+    "athlete": "Jim Brister",
+    "hometown": "Lordsburg, N.M."
+  },
+  {
+    "year": "1948",
+    "event": "Team Roping",
+    "athlete": "Joe Glenn",
+    "hometown": "Douglas, Ariz."
+  },
+  {
+    "year": "1949",
+    "event": "Team Roping",
+    "athlete": "Ed Yanez",
+    "hometown": "Newhall, Calif."
+  },
+  {
+    "year": "1950",
+    "event": "Team Roping",
+    "athlete": "Buck Sorrels",
+    "hometown": "Tucson, Ariz."
+  },
+  {
+    "year": "1951",
+    "event": "Team Roping",
+    "athlete": "Olan Sims",
+    "hometown": "Madera, Calif."
+  },
+  {
+    "year": "1952",
+    "event": "Team Roping",
+    "athlete": "Asbury Schell",
+    "hometown": "Camp Verde, Ariz."
+  },
+  {
+    "year": "1953",
+    "event": "Team Roping",
+    "athlete": "Ben Johnson",
+    "hometown": "Hollywood, Calif."
+  },
+  {
+    "year": "1954",
+    "event": "Team Roping",
+    "athlete": "Eddie Schell",
+    "hometown": "Camp Verde, Ariz."
+  },
+  {
+    "year": "1955",
+    "event": "Team Roping",
+    "athlete": "Vern Castro",
+    "hometown": "Richmond, Calif."
+  },
+  {
+    "year": "1956",
+    "event": "Team Roping",
+    "athlete": "Dale Smith",
+    "hometown": "Chandler, Ariz."
+  },
+  {
+    "year": "1957",
+    "event": "Team Roping",
+    "athlete": "Dale Smith",
+    "hometown": "Chandler, Ariz."
+  },
+  {
+    "year": "1958",
+    "event": "Team Roping",
+    "athlete": "Ted Ashworth",
+    "hometown": "Phoenix, Ariz."
+  },
+  {
+    "year": "1959",
+    "event": "Team Roping",
+    "athlete": "Jim Rodriguez Jr.",
+    "hometown": "Castroville, Calif."
+  },
+  {
+    "year": "1960",
+    "event": "Team Roping",
+    "athlete": "Jim Rodriguez Jr.",
+    "hometown": "Castroville, Calif."
+  },
+  {
+    "year": "1961",
+    "event": "Team Roping",
+    "athlete": "Al Hooper",
+    "hometown": "Escalon, Calif."
+  },
+  {
+    "year": "1962",
+    "event": "Team Roping",
+    "athlete": "Jim Rodriguez Jr.",
+    "hometown": "Castroville, Calif."
+  },
+  {
+    "year": "1963",
+    "event": "Team Roping",
+    "athlete": "Les Hirdes",
+    "hometown": "Turlock, Calif."
+  },
+  {
+    "year": "1964",
+    "event": "Team Roping",
+    "athlete": "Bill Hamilton",
+    "hometown": "Phoenix, Ariz."
+  },
+  {
+    "year": "1965",
+    "event": "Team Roping",
+    "athlete": "Jim Rodriguez Jr.",
+    "hometown": "Paso Robles, Calif."
+  },
+  {
+    "year": "1966",
+    "event": "Team Roping",
+    "athlete": "Ken Luman",
+    "hometown": "Merced, Calif."
+  },
+  {
+    "year": "1967",
+    "event": "Team Roping",
+    "athlete": "Joe Glenn",
+    "hometown": "Phoenix, Ariz."
+  },
+  {
+    "year": "1968",
+    "event": "Team Roping",
+    "athlete": "Art Arnold",
+    "hometown": "Buckeye, Ariz."
+  },
+  {
+    "year": "1969",
+    "event": "Team Roping",
+    "athlete": "Jerold Camarillo",
+    "hometown": "Oakdale, Calif."
+  },
+  {
+    "year": "1970",
+    "event": "Team Roping",
+    "athlete": "John Miller",
+    "hometown": "Pawhuska, Okla."
+  },
+  {
+    "year": "1971",
+    "event": "Team Roping",
+    "athlete": "John Miller",
+    "hometown": "Pawhuska, Okla."
+  },
+  {
+    "year": "1972",
+    "event": "Team Roping",
+    "athlete": "Leo Camarillo",
+    "hometown": "Donald, Ore."
+  },
+  {
+    "year": "1973",
+    "event": "Team Roping",
+    "athlete": "Leo Camarillo",
+    "hometown": "Donald, Ore."
+  },
+  {
+    "year": "1974",
+    "event": "Team Roping",
+    "athlete": "H.P. Evetts",
+    "hometown": "Hanford, Calif."
+  },
+  {
+    "year": "1975",
+    "event": "Team Roping",
+    "athlete": "Leo Camarillo",
+    "hometown": "Oakdale, Calif."
+  },
+  {
+    "year": "1976",
+    "event": "Team Roping",
+    "athlete": "Bucky Bradford",
+    "hometown": "Sylmar, Calif."
+  },
+  {
+    "year": "1976",
+    "event": "Team Roping",
+    "athlete": "Ronnie Rasco",
+    "hometown": "Lakeside, Calif."
+  },
+  {
+    "year": "1977",
+    "event": "Team Roping",
+    "athlete": "David Motes",
+    "hometown": "Fresno, Calif."
+  },
+  {
+    "year": "1977",
+    "event": "Team Roping",
+    "athlete": "Dennis Motes",
+    "hometown": "Mesa, Ariz."
+  },
+  {
+    "year": "1978",
+    "event": "Team Roping",
+    "athlete": "Brad Smith",
+    "hometown": "Prescott, Ariz."
+  },
+  {
+    "year": "1978",
+    "event": "Team Roping",
+    "athlete": "George Richards",
+    "hometown": "Humbolt, Ariz."
+  },
+  {
+    "year": "1979",
+    "event": "Team Roping",
+    "athlete": "Allen Bach",
+    "hometown": "Queen Creek, Ariz."
+  },
+  {
+    "year": "1980",
+    "event": "Team Roping",
+    "athlete": "Tee Woolman",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "1981",
+    "event": "Team Roping",
+    "athlete": "Walt Woodard",
+    "hometown": "Stockton, Calif."
+  },
+  {
+    "year": "1981",
+    "event": "Team Roping",
+    "athlete": "Doyle Gellerman",
+    "hometown": "Oakdale, Calif."
+  },
+  {
+    "year": "1982",
+    "event": "Team Roping",
+    "athlete": "Tee Woolman",
+    "hometown": "Fredonia, Texas"
+  },
+  {
+    "year": "1983",
+    "event": "Team Roping",
+    "athlete": "Leo Camarillo",
+    "hometown": "Lockeford, Calif."
+  },
+  {
+    "year": "1984",
+    "event": "Team Roping",
+    "athlete": "Dee Pickett",
+    "hometown": "Caldwell, Idaho"
+  },
+  {
+    "year": "1984",
+    "event": "Team Roping",
+    "athlete": "Mike Beers",
+    "hometown": "Rufus, Ore."
+  },
+  {
+    "year": "1985",
+    "event": "Team Roping",
+    "athlete": "Jake Barnes",
+    "hometown": "Bloomfield, N.M."
+  },
+  {
+    "year": "1985",
+    "event": "Team Roping",
+    "athlete": "Clay O’Brien Cooper",
+    "hometown": "Chandler Hgts, Ariz."
+  },
+  {
+    "year": "1986",
+    "event": "Team Roping",
+    "athlete": "Jake Barnes",
+    "hometown": "Bloomfield, N.M."
+  },
+  {
+    "year": "1986",
+    "event": "Team Roping",
+    "athlete": "Clay O’Brien Cooper",
+    "hometown": "Chandler Hgts, Ariz."
+  },
+  {
+    "year": "1987",
+    "event": "Team Roping",
+    "athlete": "Jake Barnes",
+    "hometown": "Bloomfield, N.M."
+  },
+  {
+    "year": "1987",
+    "event": "Team Roping",
+    "athlete": "Clay O’Brien Cooper",
+    "hometown": "Gilbert, Ariz."
+  },
+  {
+    "year": "1988",
+    "event": "Team Roping",
+    "athlete": "Jake Barnes",
+    "hometown": "Bloomfield, N.M."
+  },
+  {
+    "year": "1988",
+    "event": "Team Roping",
+    "athlete": "Clay O’Brien Cooper",
+    "hometown": "Gilbert, Ariz."
+  },
+  {
+    "year": "1989",
+    "event": "Team Roping",
+    "athlete": "Jake Barnes",
+    "hometown": "Bloomfield, N.M."
+  },
+  {
+    "year": "1989",
+    "event": "Team Roping",
+    "athlete": "Clay O’Brien Cooper",
+    "hometown": "Gilbert, Ariz."
+  },
+  {
+    "year": "1990",
+    "event": "Team Roping",
+    "athlete": "Allen Bach",
+    "hometown": "Merced, Calif."
+  },
+  {
+    "year": "1991",
+    "event": "Team Roping",
+    "athlete": "Bob Harris",
+    "hometown": "Gillette, Wyo."
+  },
+  {
+    "year": "1991",
+    "event": "Team Roping",
+    "athlete": "Tee Woolman",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "1992",
+    "event": "Team Roping",
+    "athlete": "Jake Barnes",
+    "hometown": "Higley, Ariz."
+  },
+  {
+    "year": "1992",
+    "event": "Team Roping",
+    "athlete": "Clay O’Brien Cooper",
+    "hometown": "Gilbert, Ariz."
+  },
+  {
+    "year": "1993",
+    "event": "Team Roping",
+    "athlete": "Bobby Hurley",
+    "hometown": "Ceres, Calif."
+  },
+  {
+    "year": "1994",
+    "event": "Team Roping",
+    "athlete": "Jake Barnes",
+    "hometown": "Cave Creek, Ariz."
+  },
+  {
+    "year": "1994",
+    "event": "Team Roping",
+    "athlete": "Clay O’Brien Cooper",
+    "hometown": "Gilbert, Ariz."
+  },
+  {
+    "year": "1995",
+    "event": "Team Roping",
+    "athlete": "Bobby Hurley (hdr)",
+    "hometown": "Ceres, Calif"
+  },
+  {
+    "year": "1995",
+    "event": "Team Roping",
+    "athlete": "Allen Bach (hlr)",
+    "hometown": "Toltec, Ariz."
+  },
+  {
+    "year": "1996",
+    "event": "Team Roping",
+    "athlete": "Steve Purcella (hdr)",
+    "hometown": "Hereford, Texas"
+  },
+  {
+    "year": "1996",
+    "event": "Team Roping",
+    "athlete": "Steve Northcott (hlr)",
+    "hometown": "Odessa, Texas"
+  },
+  {
+    "year": "1997",
+    "event": "Team Roping",
+    "athlete": "Speed Williams (hdr)",
+    "hometown": "Jacksonville, Fla."
+  },
+  {
+    "year": "1997",
+    "event": "Team Roping",
+    "athlete": "Rich Skelton (hlr)",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "1998",
+    "event": "Team Roping",
+    "athlete": "Speed Williams (hdr)",
+    "hometown": "Jacksonville, Fla."
+  },
+  {
+    "year": "1998",
+    "event": "Team Roping",
+    "athlete": "Rich Skelton (hlr)",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "1999",
+    "event": "Team Roping",
+    "athlete": "Speed Williams (hdr)",
+    "hometown": "Jacksonville, Fla."
+  },
+  {
+    "year": "1999",
+    "event": "Team Roping",
+    "athlete": "Rich Skelton (hlr)",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "2000",
+    "event": "Team Roping",
+    "athlete": "Speed Williams (hdr)",
+    "hometown": "Jacksonville, Fla."
+  },
+  {
+    "year": "2000",
+    "event": "Team Roping",
+    "athlete": "Rich Skelton (hlr)",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "2001",
+    "event": "Team Roping",
+    "athlete": "Speed Williams (hdr)",
+    "hometown": "Jacksonville, Fla."
+  },
+  {
+    "year": "2001",
+    "event": "Team Roping",
+    "athlete": "Rich Skelton (hlr)",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "2002",
+    "event": "Team Roping",
+    "athlete": "Speed Williams (hdr)",
+    "hometown": "Jacksonville, Fla."
+  },
+  {
+    "year": "2002",
+    "event": "Team Roping",
+    "athlete": "Rich Skelton (hlr)",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "2003",
+    "event": "Team Roping",
+    "athlete": "Speed Williams (hdr)",
+    "hometown": "Amarillo, Texas"
+  },
+  {
+    "year": "2003",
+    "event": "Team Roping",
+    "athlete": "Rich Skelton (hlr)",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "2004",
+    "event": "Team Roping",
+    "athlete": "Speed Williams (hdr)",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "2004",
+    "event": "Team Roping",
+    "athlete": "Rich Skelton (hlr)",
+    "hometown": "Llano, Texas"
+  },
+  {
+    "year": "2005",
+    "event": "Team Roping",
+    "athlete": "Clay Tryan (hdr)",
+    "hometown": "Billings, Mont."
+  },
+  {
+    "year": "2005",
+    "event": "Team Roping",
+    "athlete": "Patrick Smith (hlr)",
+    "hometown": "Midland, Texas"
+  },
+  {
+    "year": "2006",
+    "event": "Team Roping",
+    "athlete": "Matt Sherwood (hdr)",
+    "hometown": "Queen Creek, Ariz."
+  },
+  {
+    "year": "2006",
+    "event": "Team Roping",
+    "athlete": "Allen Bach (hlr)",
+    "hometown": "Weatherford, Texas"
+  },
+  {
+    "year": "2007",
+    "event": "Team Roping",
+    "athlete": "Chad Masters (hdr)",
+    "hometown": "Clarksville, Tenn."
+  },
+  {
+    "year": "2007",
+    "event": "Team Roping",
+    "athlete": "Walt Woodard (hlr)",
+    "hometown": "Stockton, Calif."
+  },
+  {
+    "year": "2008",
+    "event": "Team Roping",
+    "athlete": "Matt Sherwood (hdr)",
+    "hometown": "Pima, Ariz."
+  },
+  {
+    "year": "2008",
+    "event": "Team Roping",
+    "athlete": "Randon Adams (hlr)",
+    "hometown": "Logandale, Nev."
+  },
+  {
+    "year": "2009",
+    "event": "Team Roping",
+    "athlete": "Nick Sartain (hdr)",
+    "hometown": "Yukon, Okla."
+  },
+  {
+    "year": "2009",
+    "event": "Team Roping",
+    "athlete": "Kollin VonAhn (hlr)",
+    "hometown": "Durant, Okla."
+  },
+  {
+    "year": "2010",
+    "event": "Team Roping",
+    "athlete": "Trevor Brazile (hdr)",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2010",
+    "event": "Team Roping",
+    "athlete": "Patrick Smith (hlr)",
+    "hometown": "Midland, Texas"
+  },
+  {
+    "year": "2011",
+    "event": "Team Roping",
+    "athlete": "Turtle Powell (hdr)",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "2011",
+    "event": "Team Roping",
+    "athlete": "Jhett Johnson (hlr)",
+    "hometown": "Casper, Wyo."
+  },
+  {
+    "year": "2012",
+    "event": "Team Roping",
+    "athlete": "Chad Masters (hdr)",
+    "hometown": "Cedar Hill, Tenn."
+  },
+  {
+    "year": "2012",
+    "event": "Team Roping",
+    "athlete": "Jade Corkill (hlr)",
+    "hometown": "Fallon, Nev."
+  },
+  {
+    "year": "2013",
+    "event": "Team Roping",
+    "athlete": "Clay Tryan (hdr)",
+    "hometown": "Billings, Mont.."
+  },
+  {
+    "year": "2013",
+    "event": "Team Roping",
+    "athlete": "Jade Corkill (hlr)",
+    "hometown": "Fallon, Nev."
+  },
+  {
+    "year": "2014",
+    "event": "Team Roping",
+    "athlete": "Clay Tryan (hdr)",
+    "hometown": "Billings, Mont.."
+  },
+  {
+    "year": "2014",
+    "event": "Team Roping",
+    "athlete": "Jade Corkill (hlr)",
+    "hometown": "Fallon, Nev."
+  },
+  {
+    "year": "2015",
+    "event": "Team Roping",
+    "athlete": "Aaron Tsinigine (hdr)",
+    "hometown": "Tuba City, Ariz."
+  },
+  {
+    "year": "2015",
+    "event": "Team Roping",
+    "athlete": "Kollin VonAhn (hlr)",
+    "hometown": "Blanchard, Okla."
+  },
+  {
+    "year": "2016",
+    "event": "Team Roping",
+    "athlete": "Levi Simpson (hdr)",
+    "hometown": "Ponoka, Alberta"
+  },
+  {
+    "year": "2016",
+    "event": "Team Roping",
+    "athlete": "Jeremy Buhler (hlr)",
+    "hometown": "Arrowwood, Alberta"
+  },
+  {
+    "year": "2017",
+    "event": "Team Roping",
+    "athlete": "Erich Rogers (hdr)",
+    "hometown": "Round Rock, Ariz."
+  },
+  {
+    "year": "2017",
+    "event": "Team Roping",
+    "athlete": "Cory Petska (hlr)",
+    "hometown": "Marana, Ariz."
+  },
+  {
+    "year": "2018",
+    "event": "Team Roping",
+    "athlete": "Clay Smith (hdr)",
+    "hometown": "Broken Bow, Okla."
+  },
+  {
+    "year": "2018",
+    "event": "Team Roping",
+    "athlete": "Paul Eaves (hlr)",
+    "hometown": "Lonedell, Mo."
+  },
+  {
+    "year": "2019",
+    "event": "Team Roping",
+    "athlete": "Clay Smith (hdr)",
+    "hometown": "Broken Bow, Okla."
+  },
+  {
+    "year": "2019",
+    "event": "Team Roping",
+    "athlete": "Wesley Thorp (hlr)",
+    "hometown": "Throckmorton, Texas"
+  },
+  {
+    "year": "2020",
+    "event": "Team Roping",
+    "athlete": "Colby Lovell (hdr)",
+    "hometown": "Madisonville, Texas"
+  },
+  {
+    "year": "2020",
+    "event": "Team Roping",
+    "athlete": "Paul Eaves (hlr)",
+    "hometown": "Lonedell, Mo."
+  },
+  {
+    "year": "2021",
+    "event": "Team Roping",
+    "athlete": "Kaleb Driggers (hdr)",
+    "hometown": "Hoboken, Ga."
+  },
+  {
+    "year": "2021",
+    "event": "Team Roping",
+    "athlete": "J. Nogueira (hlr)",
+    "hometown": "Prudente, Brazil"
+  },
+  {
+    "year": "2022",
+    "event": "Team Roping",
+    "athlete": "Kaleb Driggers (hdr)",
+    "hometown": "Hoboken, Ga."
+  },
+  {
+    "year": "2022",
+    "event": "Team Roping",
+    "athlete": "J. Nogueira (hlr)",
+    "hometown": "Presidente, Brazil"
+  },
+  {
+    "year": "2023",
+    "event": "Team Roping",
+    "athlete": "Tyler Wade (hdr)",
+    "hometown": "Terrell, Texas"
+  },
+  {
+    "year": "2023",
+    "event": "Team Roping",
+    "athlete": "Wesley THorp (hlr)",
+    "hometown": "Throckmorton, Texas"
+  },
+  {
+    "year": "2024",
+    "event": "Team Roping",
+    "athlete": "Tyler Wade (hdr)",
+    "hometown": "Terrell, Texas"
+  },
+  {
+    "year": "2024",
+    "event": "Team Roping",
+    "athlete": "Wesley THorp (hlr)",
+    "hometown": "Throckmorton, Texas"
+  },
+  {
+    "year": "1929",
+    "event": "Tie-Down Roping",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1930",
+    "event": "Tie-Down Roping",
+    "athlete": "Jake McClure",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "1931",
+    "event": "Tie-Down Roping",
+    "athlete": "Herb Meyers",
+    "hometown": "Okmulgee, Okla."
+  },
+  {
+    "year": "1932",
+    "event": "Tie-Down Roping",
+    "athlete": "Richard Merchant",
+    "hometown": "Kirkland, Ariz."
+  },
+  {
+    "year": "1933",
+    "event": "Tie-Down Roping",
+    "athlete": "Bill McFarlane",
+    "hometown": "Red Bluff, Calif."
+  },
+  {
+    "year": "1934",
+    "event": "Tie-Down Roping",
+    "athlete": "Irby Mundy",
+    "hometown": "Shamrock, Texas"
+  },
+  {
+    "year": "1935",
+    "event": "Tie-Down Roping",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1936",
+    "event": "Tie-Down Roping",
+    "athlete": "Clyde Burk",
+    "hometown": "Comanche, Okla."
+  },
+  {
+    "year": "1937",
+    "event": "Tie-Down Roping",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1938",
+    "event": "Tie-Down Roping",
+    "athlete": "Clyde Burk",
+    "hometown": "Comanche, Okla."
+  },
+  {
+    "year": "1939",
+    "event": "Tie-Down Roping",
+    "athlete": "Toots Mansfield",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1940",
+    "event": "Tie-Down Roping",
+    "athlete": "Toots Mansfield",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1941",
+    "event": "Tie-Down Roping",
+    "athlete": "Toots Mansfield",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1942",
+    "event": "Tie-Down Roping",
+    "athlete": "Clyde Burk",
+    "hometown": "Comanche, Okla."
+  },
+  {
+    "year": "1943",
+    "event": "Tie-Down Roping",
+    "athlete": "Toots Mansfield",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1944",
+    "event": "Tie-Down Roping",
+    "athlete": "Clyde Burk",
+    "hometown": "Comanche, Okla."
+  },
+  {
+    "year": "1945",
+    "event": "Tie-Down Roping",
+    "athlete": "Toots Mansfield",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1946",
+    "event": "Tie-Down Roping",
+    "athlete": "Royce Sewalt",
+    "hometown": "King, Texas"
+  },
+  {
+    "year": "1947",
+    "event": "Tie-Down Roping",
+    "athlete": "Troy Fort",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "1948",
+    "event": "Tie-Down Roping",
+    "athlete": "Toots Mansfield",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1949",
+    "event": "Tie-Down Roping",
+    "athlete": "Troy Fort",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "1950",
+    "event": "Tie-Down Roping",
+    "athlete": "Toots Mansfield",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1951",
+    "event": "Tie-Down Roping",
+    "athlete": "Don McLaughlin",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1952",
+    "event": "Tie-Down Roping",
+    "athlete": "Don McLaughlin",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1953",
+    "event": "Tie-Down Roping",
+    "athlete": "Don McLaughlin",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1954",
+    "event": "Tie-Down Roping",
+    "athlete": "Don McLaughlin",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1955",
+    "event": "Tie-Down Roping",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1956",
+    "event": "Tie-Down Roping",
+    "athlete": "Ray Wharton",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1957",
+    "event": "Tie-Down Roping",
+    "athlete": "Don McLaughlin",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1958",
+    "event": "Tie-Down Roping",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1959",
+    "event": "Tie-Down Roping",
+    "athlete": "Jim Bob Altizer",
+    "hometown": "Del Rio, Texas"
+  },
+  {
+    "year": "1960",
+    "event": "Tie-Down Roping",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1961",
+    "event": "Tie-Down Roping",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1962",
+    "event": "Tie-Down Roping",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1963",
+    "event": "Tie-Down Roping",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1964",
+    "event": "Tie-Down Roping",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1965",
+    "event": "Tie-Down Roping",
+    "athlete": "Glen Franklin",
+    "hometown": "House, N.M."
+  },
+  {
+    "year": "1966",
+    "event": "Tie-Down Roping",
+    "athlete": "Junior Garrison",
+    "hometown": "Marlow, Okla."
+  },
+  {
+    "year": "1967",
+    "event": "Tie-Down Roping",
+    "athlete": "Glen Franklin",
+    "hometown": "House, N.M."
+  },
+  {
+    "year": "1968",
+    "event": "Tie-Down Roping",
+    "athlete": "Glen Franklin",
+    "hometown": "House, N.M."
+  },
+  {
+    "year": "1969",
+    "event": "Tie-Down Roping",
+    "athlete": "Dean Oliver",
+    "hometown": "Boise, Idaho"
+  },
+  {
+    "year": "1970",
+    "event": "Tie-Down Roping",
+    "athlete": "Junior Garrison",
+    "hometown": "Duncan, Okla."
+  },
+  {
+    "year": "1971",
+    "event": "Tie-Down Roping",
+    "athlete": "Phil Lyne",
+    "hometown": "George West, Texas"
+  },
+  {
+    "year": "1972",
+    "event": "Tie-Down Roping",
+    "athlete": "Phil Lyne",
+    "hometown": "George West, Texas"
+  },
+  {
+    "year": "1973",
+    "event": "Tie-Down Roping",
+    "athlete": "Ernie Taylor",
+    "hometown": "Hugo, Okla."
+  },
+  {
+    "year": "1974",
+    "event": "Tie-Down Roping",
+    "athlete": "Tom Ferguson",
+    "hometown": "Miami, Okla."
+  },
+  {
+    "year": "1975",
+    "event": "Tie-Down Roping",
+    "athlete": "Jeff Copenhaver",
+    "hometown": "Spokane, Wash."
+  },
+  {
+    "year": "1976",
+    "event": "Tie-Down Roping",
+    "athlete": "Roy Cooper",
+    "hometown": "Durant, Okla."
+  },
+  {
+    "year": "1977",
+    "event": "Tie-Down Roping",
+    "athlete": "Jim Gladstone",
+    "hometown": "Cardston, Alberta"
+  },
+  {
+    "year": "1978",
+    "event": "Tie-Down Roping",
+    "athlete": "Dave Brock",
+    "hometown": "Pueblo, Colo."
+  },
+  {
+    "year": "1979",
+    "event": "Tie-Down Roping",
+    "athlete": "Paul Tierney",
+    "hometown": "Rapid City, S.D."
+  },
+  {
+    "year": "1980",
+    "event": "Tie-Down Roping",
+    "athlete": "Roy Cooper",
+    "hometown": "Durant, Okla."
+  },
+  {
+    "year": "1981",
+    "event": "Tie-Down Roping",
+    "athlete": "Roy Cooper",
+    "hometown": "Durant, Okla."
+  },
+  {
+    "year": "1982",
+    "event": "Tie-Down Roping",
+    "athlete": "Roy Cooper",
+    "hometown": "Durant, Okla."
+  },
+  {
+    "year": "1983",
+    "event": "Tie-Down Roping",
+    "athlete": "Roy Cooper",
+    "hometown": "Durant, Okla."
+  },
+  {
+    "year": "1984",
+    "event": "Tie-Down Roping",
+    "athlete": "Roy Cooper",
+    "hometown": "Durant, Okla."
+  },
+  {
+    "year": "1985",
+    "event": "Tie-Down Roping",
+    "athlete": "Joe Beaver",
+    "hometown": "Victoria, Texas"
+  },
+  {
+    "year": "1986",
+    "event": "Tie-Down Roping",
+    "athlete": "Chris Lybbert",
+    "hometown": "Argyle, Texas"
+  },
+  {
+    "year": "1987",
+    "event": "Tie-Down Roping",
+    "athlete": "Joe Beaver",
+    "hometown": "Victoria, Texas"
+  },
+  {
+    "year": "1988",
+    "event": "Tie-Down Roping",
+    "athlete": "Joe Beaver",
+    "hometown": "Victoria, Texas"
+  },
+  {
+    "year": "1989",
+    "event": "Tie-Down Roping",
+    "athlete": "Rabe Rabon",
+    "hometown": "San Antonio, Fla."
+  },
+  {
+    "year": "1990",
+    "event": "Tie-Down Roping",
+    "athlete": "Troy Pruitt",
+    "hometown": "Lennox, S.D."
+  },
+  {
+    "year": "1991",
+    "event": "Tie-Down Roping",
+    "athlete": "Fred Whitfield",
+    "hometown": "Cypress, Texas"
+  },
+  {
+    "year": "1992",
+    "event": "Tie-Down Roping",
+    "athlete": "Joe Beaver",
+    "hometown": "Huntsville, Texas"
+  },
+  {
+    "year": "1993",
+    "event": "Tie-Down Roping",
+    "athlete": "Joe Beaver",
+    "hometown": "Huntsville, Texas"
+  },
+  {
+    "year": "1994",
+    "event": "Tie-Down Roping",
+    "athlete": "Herbert Theriot",
+    "hometown": "Wiggins, Miss."
+  },
+  {
+    "year": "1995",
+    "event": "Tie-Down Roping",
+    "athlete": "Fred Whitfield",
+    "hometown": "Hockley, Texas"
+  },
+  {
+    "year": "1996",
+    "event": "Tie-Down Roping",
+    "athlete": "Fred Whitfield",
+    "hometown": "Hockley, Texas"
+  },
+  {
+    "year": "1997",
+    "event": "Tie-Down Roping",
+    "athlete": "Cody Ohl",
+    "hometown": "Orchard, Texas"
+  },
+  {
+    "year": "1998",
+    "event": "Tie-Down Roping",
+    "athlete": "Cody Ohl",
+    "hometown": "Orchard, Texas"
+  },
+  {
+    "year": "1999",
+    "event": "Tie-Down Roping",
+    "athlete": "Fred Whitfield",
+    "hometown": "Hockley, Texas"
+  },
+  {
+    "year": "2000",
+    "event": "Tie-Down Roping",
+    "athlete": "Fred Whitfield",
+    "hometown": "Hockley, Texas"
+  },
+  {
+    "year": "2001",
+    "event": "Tie-Down Roping",
+    "athlete": "Cody Ohl",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "2002",
+    "event": "Tie-Down Roping",
+    "athlete": "Fred Whitfield",
+    "hometown": "Hockley, Texas"
+  },
+  {
+    "year": "2003",
+    "event": "Tie-Down Roping",
+    "athlete": "Cody Ohl",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "2004",
+    "event": "Tie-Down Roping",
+    "athlete": "Monty Lewis",
+    "hometown": "Hereford, Texas"
+  },
+  {
+    "year": "2005",
+    "event": "Tie-Down Roping",
+    "athlete": "Fred Whitfield",
+    "hometown": "Hockley, Texas"
+  },
+  {
+    "year": "2006",
+    "event": "Tie-Down Roping",
+    "athlete": "Cody Ohl",
+    "hometown": "Hico, Texas"
+  },
+  {
+    "year": "2007",
+    "event": "Tie-Down Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2008",
+    "event": "Tie-Down Roping",
+    "athlete": "Stran Smith",
+    "hometown": "Childress, Texas"
+  },
+  {
+    "year": "2009",
+    "event": "Tie-Down Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2010",
+    "event": "Tie-Down Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2011",
+    "event": "Tie-Down Roping",
+    "athlete": "Tuf Cooper",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2012",
+    "event": "Tie-Down Roping",
+    "athlete": "Tuf Cooper",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2013",
+    "event": "Tie-Down Roping",
+    "athlete": "Shane Hanchey",
+    "hometown": "Sulphur, La."
+  },
+  {
+    "year": "2014",
+    "event": "Tie-Down Roping",
+    "athlete": "Tuf Cooper",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2015",
+    "event": "Tie-Down Roping",
+    "athlete": "Caleb Smidt",
+    "hometown": "Bellville, Texas"
+  },
+  {
+    "year": "2016",
+    "event": "Tie-Down Roping",
+    "athlete": "Tyson Durfey",
+    "hometown": "Weatherford, Texas"
+  },
+  {
+    "year": "2017",
+    "event": "Tie-Down Roping",
+    "athlete": "Marcos Costa",
+    "hometown": "Parana, Brazil"
+  },
+  {
+    "year": "2018",
+    "event": "Tie-Down Roping",
+    "athlete": "Caleb Smidt",
+    "hometown": "Huntsville, Texas"
+  },
+  {
+    "year": "2019",
+    "event": "Tie-Down Roping",
+    "athlete": "Haven Meged",
+    "hometown": "Miles City, Mont."
+  },
+  {
+    "year": "2020",
+    "event": "Tie-Down Roping",
+    "athlete": "Shad Mayfield",
+    "hometown": "Clovis, N.M."
+  },
+  {
+    "year": "2021",
+    "event": "Tie-Down Roping",
+    "athlete": "Caleb Smidt",
+    "hometown": "Bellville, Texas"
+  },
+  {
+    "year": "2022",
+    "event": "Tie-Down Roping",
+    "athlete": "Caleb Smidt",
+    "hometown": "Bellville, Texas"
+  },
+  {
+    "year": "2023",
+    "event": "Tie-Down Roping",
+    "athlete": "Riley Webb",
+    "hometown": "Denton, Texas"
+  },
+  {
+    "year": "2024",
+    "event": "Tie-Down Roping",
+    "athlete": "Riley Webb",
+    "hometown": "Denton, Texas"
+  },
+  {
+    "year": "1929",
+    "event": "Bull Riding",
+    "athlete": "Johnie Schneider",
+    "hometown": "Livermore, Calif."
+  },
+  {
+    "year": "1930",
+    "event": "Bull Riding",
+    "athlete": "Johnie Schneider",
+    "hometown": "Livermore, Calif."
+  },
+  {
+    "year": "1931",
+    "event": "Bull Riding",
+    "athlete": "Smoky Snyder",
+    "hometown": "Bellflower, Calif."
+  },
+  {
+    "year": "1932",
+    "event": "Bull Riding",
+    "athlete": "Johnie Schneider",
+    "hometown": "Livermore, Calif. (tie)"
+  },
+  {
+    "year": "1932",
+    "event": "Bull Riding",
+    "athlete": "Smoky Snyder",
+    "hometown": "Bellflower, Calif. (tie)"
+  },
+  {
+    "year": "1933",
+    "event": "Bull Riding",
+    "athlete": "Frank Schneider",
+    "hometown": "Caliente, Calif."
+  },
+  {
+    "year": "1934",
+    "event": "Bull Riding",
+    "athlete": "Frank Schneider",
+    "hometown": "Caliente, Calif."
+  },
+  {
+    "year": "1935",
+    "event": "Bull Riding",
+    "athlete": "Smoky Snyder",
+    "hometown": "Bellflower, Calif."
+  },
+  {
+    "year": "1936",
+    "event": "Bull Riding",
+    "athlete": "Smoky Snyder",
+    "hometown": "Bellflower, Calif."
+  },
+  {
+    "year": "1937",
+    "event": "Bull Riding",
+    "athlete": "Smoky Snyder",
+    "hometown": "Bellflower, Calif."
+  },
+  {
+    "year": "1938",
+    "event": "Bull Riding",
+    "athlete": "Kid Fletcher",
+    "hometown": "Hugo, Colo."
+  },
+  {
+    "year": "1939",
+    "event": "Bull Riding",
+    "athlete": "Dick Griffith",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1940",
+    "event": "Bull Riding",
+    "athlete": "Dick Griffith",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1941",
+    "event": "Bull Riding",
+    "athlete": "Dick Griffith",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1942",
+    "event": "Bull Riding",
+    "athlete": "Dick Griffith",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1943",
+    "event": "Bull Riding",
+    "athlete": "Ken Roberts",
+    "hometown": "Strong City, Kan."
+  },
+  {
+    "year": "1944",
+    "event": "Bull Riding",
+    "athlete": "Ken Roberts",
+    "hometown": "Strong City, Kan."
+  },
+  {
+    "year": "1945",
+    "event": "Bull Riding",
+    "athlete": "Ken Roberts",
+    "hometown": "Strong City, Kan."
+  },
+  {
+    "year": "1946",
+    "event": "Bull Riding",
+    "athlete": "Pee Wee Morris",
+    "hometown": "Custer, S.D."
+  },
+  {
+    "year": "1947",
+    "event": "Bull Riding",
+    "athlete": "Wag Blesing",
+    "hometown": "Bell, Calif."
+  },
+  {
+    "year": "1948",
+    "event": "Bull Riding",
+    "athlete": "Harry Tompkins",
+    "hometown": "Dublin, Texas"
+  },
+  {
+    "year": "1949",
+    "event": "Bull Riding",
+    "athlete": "Harry Tompkins",
+    "hometown": "Dublin, Texas"
+  },
+  {
+    "year": "1950",
+    "event": "Bull Riding",
+    "athlete": "Harry Tompkins",
+    "hometown": "Dublin, Texas"
+  },
+  {
+    "year": "1951",
+    "event": "Bull Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1952",
+    "event": "Bull Riding",
+    "athlete": "Harry Tompkins",
+    "hometown": "Dublin, Texas"
+  },
+  {
+    "year": "1953",
+    "event": "Bull Riding",
+    "athlete": "Todd Whatley",
+    "hometown": "Hugo, Okla."
+  },
+  {
+    "year": "1954",
+    "event": "Bull Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1955",
+    "event": "Bull Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1956",
+    "event": "Bull Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1957",
+    "event": "Bull Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1958",
+    "event": "Bull Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1959",
+    "event": "Bull Riding",
+    "athlete": "Jim Shoulders",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1960",
+    "event": "Bull Riding",
+    "athlete": "Harry Tompkins",
+    "hometown": "Dublin, Texas"
+  },
+  {
+    "year": "1961",
+    "event": "Bull Riding",
+    "athlete": "Ronnie Rossen",
+    "hometown": "Broadus, Mont."
+  },
+  {
+    "year": "1962",
+    "event": "Bull Riding",
+    "athlete": "Freckles Brown",
+    "hometown": "Lawton, Okla."
+  },
+  {
+    "year": "1963",
+    "event": "Bull Riding",
+    "athlete": "Bill Kornell",
+    "hometown": "Palm Springs, Calif."
+  },
+  {
+    "year": "1964",
+    "event": "Bull Riding",
+    "athlete": "Bob Wegner",
+    "hometown": "Auburn, Wash."
+  },
+  {
+    "year": "1965",
+    "event": "Bull Riding",
+    "athlete": "Larry Mahan",
+    "hometown": "Brooks, Ore."
+  },
+  {
+    "year": "1966",
+    "event": "Bull Riding",
+    "athlete": "Ronnie Rossen",
+    "hometown": "Broadus, Mont."
+  },
+  {
+    "year": "1967",
+    "event": "Bull Riding",
+    "athlete": "Larry Mahan",
+    "hometown": "Brooks, Ore."
+  },
+  {
+    "year": "1968",
+    "event": "Bull Riding",
+    "athlete": "George Paul",
+    "hometown": "Del Rio, Texas"
+  },
+  {
+    "year": "1969",
+    "event": "Bull Riding",
+    "athlete": "Doug Brown",
+    "hometown": "Silverton, Ore."
+  },
+  {
+    "year": "1970",
+    "event": "Bull Riding",
+    "athlete": "Gary Leffew",
+    "hometown": "Santa Maria, Calif."
+  },
+  {
+    "year": "1971",
+    "event": "Bull Riding",
+    "athlete": "Bill Nelson",
+    "hometown": "San Francisco, Calif."
+  },
+  {
+    "year": "1972",
+    "event": "Bull Riding",
+    "athlete": "John Quintana",
+    "hometown": "Creswell, Ore."
+  },
+  {
+    "year": "1973",
+    "event": "Bull Riding",
+    "athlete": "Bobby Steiner",
+    "hometown": "Austin, Texas"
+  },
+  {
+    "year": "1974",
+    "event": "Bull Riding",
+    "athlete": "Don Gay",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1975",
+    "event": "Bull Riding",
+    "athlete": "Don Gay",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1976",
+    "event": "Bull Riding",
+    "athlete": "Don Gay",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1977",
+    "event": "Bull Riding",
+    "athlete": "Don Gay",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1978",
+    "event": "Bull Riding",
+    "athlete": "Butch Kirby",
+    "hometown": "Alba, Texas"
+  },
+  {
+    "year": "1979",
+    "event": "Bull Riding",
+    "athlete": "Don Gay",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1980",
+    "event": "Bull Riding",
+    "athlete": "Don Gay",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1981",
+    "event": "Bull Riding",
+    "athlete": "Don Gay",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1982",
+    "event": "Bull Riding",
+    "athlete": "Charles Sampson",
+    "hometown": "Los Angeles, Calif."
+  },
+  {
+    "year": "1983",
+    "event": "Bull Riding",
+    "athlete": "Cody Snyder",
+    "hometown": "Redcliff, Alberta"
+  },
+  {
+    "year": "1984",
+    "event": "Bull Riding",
+    "athlete": "Don Gay",
+    "hometown": "Mesquite, Texas"
+  },
+  {
+    "year": "1985",
+    "event": "Bull Riding",
+    "athlete": "Ted Nuce",
+    "hometown": "Manteca, Calif."
+  },
+  {
+    "year": "1986",
+    "event": "Bull Riding",
+    "athlete": "Tuff Hedeman",
+    "hometown": "Gainesville, Texas"
+  },
+  {
+    "year": "1987",
+    "event": "Bull Riding",
+    "athlete": "Lane Frost",
+    "hometown": "Lane, Okla."
+  },
+  {
+    "year": "1988",
+    "event": "Bull Riding",
+    "athlete": "Jim Sharp",
+    "hometown": "Kermit, Texas"
+  },
+  {
+    "year": "1989",
+    "event": "Bull Riding",
+    "athlete": "Tuff Hedeman",
+    "hometown": "Bowie, Texas"
+  },
+  {
+    "year": "1990",
+    "event": "Bull Riding",
+    "athlete": "Jim Sharp",
+    "hometown": "Kermit, Texas"
+  },
+  {
+    "year": "1991",
+    "event": "Bull Riding",
+    "athlete": "Tuff Hedeman",
+    "hometown": "Bowie, Texas"
+  },
+  {
+    "year": "1992",
+    "event": "Bull Riding",
+    "athlete": "Cody Custer",
+    "hometown": "Wickenburg, Ariz."
+  },
+  {
+    "year": "1993",
+    "event": "Bull Riding",
+    "athlete": "Ty Murray",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "1994",
+    "event": "Bull Riding",
+    "athlete": "Daryl Mills",
+    "hometown": "Pink Mountain, B.C."
+  },
+  {
+    "year": "1995",
+    "event": "Bull Riding",
+    "athlete": "Jerome Davis",
+    "hometown": "Archdale, N.C."
+  },
+  {
+    "year": "1996",
+    "event": "Bull Riding",
+    "athlete": "Terry Don West",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "1997",
+    "event": "Bull Riding",
+    "athlete": "Scott Mendes",
+    "hometown": "Weatherford, Texas"
+  },
+  {
+    "year": "1998",
+    "event": "Bull Riding",
+    "athlete": "Ty Murray",
+    "hometown": "Stephenville, Texas"
+  },
+  {
+    "year": "1999",
+    "event": "Bull Riding",
+    "athlete": "Mike White",
+    "hometown": "Lake Charles, La."
+  },
+  {
+    "year": "2000",
+    "event": "Bull Riding",
+    "athlete": "Cody Hancock",
+    "hometown": "Taylor, Ariz."
+  },
+  {
+    "year": "2001",
+    "event": "Bull Riding",
+    "athlete": "Blue Stone",
+    "hometown": "Ogden, Utah"
+  },
+  {
+    "year": "2002",
+    "event": "Bull Riding",
+    "athlete": "Blue Stone",
+    "hometown": "Ogden, Utah"
+  },
+  {
+    "year": "2003",
+    "event": "Bull Riding",
+    "athlete": "Terry Don West",
+    "hometown": "Henryetta, Okla."
+  },
+  {
+    "year": "2004",
+    "event": "Bull Riding",
+    "athlete": "Dustin Elliott",
+    "hometown": "Tecumseh, Neb."
+  },
+  {
+    "year": "2005",
+    "event": "Bull Riding",
+    "athlete": "Matt Austin",
+    "hometown": "Wills Point, Texas"
+  },
+  {
+    "year": "2006",
+    "event": "Bull Riding",
+    "athlete": "B.J. Schumacher",
+    "hometown": "Hillsboro, Wis."
+  },
+  {
+    "year": "2007",
+    "event": "Bull Riding",
+    "athlete": "Wes Silcox",
+    "hometown": "Payson, Utah"
+  },
+  {
+    "year": "2008",
+    "event": "Bull Riding",
+    "athlete": "J.W. Harris",
+    "hometown": "May, Texas"
+  },
+  {
+    "year": "2009",
+    "event": "Bull Riding",
+    "athlete": "J.W. Harris",
+    "hometown": "May, Texas"
+  },
+  {
+    "year": "2010",
+    "event": "Bull Riding",
+    "athlete": "J.W. Harris",
+    "hometown": "Mullin, Texas"
+  },
+  {
+    "year": "2011",
+    "event": "Bull Riding",
+    "athlete": "Shane Proctor",
+    "hometown": "Grand Coulee, Wash."
+  },
+  {
+    "year": "2012",
+    "event": "Bull Riding",
+    "athlete": "Cody Teel",
+    "hometown": "Kountze, Texas"
+  },
+  {
+    "year": "2013",
+    "event": "Bull Riding",
+    "athlete": "J.W. Harris",
+    "hometown": "Mullin, Texas"
+  },
+  {
+    "year": "2014",
+    "event": "Bull Riding",
+    "athlete": "Sage Kimzey",
+    "hometown": "Strong City, Okla."
+  },
+  {
+    "year": "2015",
+    "event": "Bull Riding",
+    "athlete": "Sage Kimzey",
+    "hometown": "Strong City, Okla."
+  },
+  {
+    "year": "2016",
+    "event": "Bull Riding",
+    "athlete": "Sage Kimzey",
+    "hometown": "Strong City, Okla."
+  },
+  {
+    "year": "2017",
+    "event": "Bull Riding",
+    "athlete": "Sage Kimzey",
+    "hometown": "Strong City, Okla."
+  },
+  {
+    "year": "2018",
+    "event": "Bull Riding",
+    "athlete": "Sage Kimzey",
+    "hometown": "Strong City, Okla."
+  },
+  {
+    "year": "2019",
+    "event": "Bull Riding",
+    "athlete": "Sage Kimzey",
+    "hometown": "Strong City, Okla."
+  },
+  {
+    "year": "2020",
+    "event": "Bull Riding",
+    "athlete": "Stetson Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2021",
+    "event": "Bull Riding",
+    "athlete": "Sage Kimzey",
+    "hometown": "Saledo, Texas"
+  },
+  {
+    "year": "2022",
+    "event": "Bull Riding",
+    "athlete": "Stetson Wright",
+    "hometown": "Milford, Utah"
+  },
+  {
+    "year": "2023",
+    "event": "Bull Riding",
+    "athlete": "Ky Hamilton",
+    "hometown": "Mackay, Queensland"
+  },
+  {
+    "year": "2024",
+    "event": "Bull Riding",
+    "athlete": "Josh Frost",
+    "hometown": "Randlett, Utah"
+  },
+  {
+    "year": "1929",
+    "event": "Steer Roping",
+    "athlete": "Charles Maggini",
+    "hometown": "San Jose, Calif."
+  },
+  {
+    "year": "1930",
+    "event": "Steer Roping",
+    "athlete": "Clay Carr",
+    "hometown": "Visalia, Calif."
+  },
+  {
+    "year": "1931",
+    "event": "Steer Roping",
+    "athlete": "Andy Jauregui",
+    "hometown": "Newhall, Calif."
+  },
+  {
+    "year": "1932",
+    "event": "Steer Roping",
+    "athlete": "George Weir",
+    "hometown": "Okmulgee, Okla."
+  },
+  {
+    "year": "1933",
+    "event": "Steer Roping",
+    "athlete": "John Bowman",
+    "hometown": "Oakdale, Calif."
+  },
+  {
+    "year": "1934",
+    "event": "Steer Roping",
+    "athlete": "John McEntire",
+    "hometown": "Kiowa, Okla."
+  },
+  {
+    "year": "1935",
+    "event": "Steer Roping",
+    "athlete": "Richard Merchant",
+    "hometown": "Kirkland, Ariz."
+  },
+  {
+    "year": "1936",
+    "event": "Steer Roping",
+    "athlete": "John Bowman",
+    "hometown": "Oakdale, Calif."
+  },
+  {
+    "year": "1937",
+    "event": "Steer Roping",
+    "athlete": "Everett Bowman",
+    "hometown": "Hillside, Ariz."
+  },
+  {
+    "year": "1938",
+    "event": "Steer Roping",
+    "athlete": "Hugh Bennett",
+    "hometown": "Fort Thomas, Ariz."
+  },
+  {
+    "year": "1939",
+    "event": "Steer Roping",
+    "athlete": "Dick Truitt",
+    "hometown": "Stonewall, Okla."
+  },
+  {
+    "year": "1940",
+    "event": "Steer Roping",
+    "athlete": "Clay Carr",
+    "hometown": "Visalia, Calif."
+  },
+  {
+    "year": "1941",
+    "event": "Steer Roping",
+    "athlete": "Ike Rude",
+    "hometown": "Buffalo, Okla."
+  },
+  {
+    "year": "1942",
+    "event": "Steer Roping",
+    "athlete": "King Merritt",
+    "hometown": "Federal, Wyo."
+  },
+  {
+    "year": "1943",
+    "event": "Steer Roping",
+    "athlete": "Tom Rhodes",
+    "hometown": "Sombrero Butte, Ariz."
+  },
+  {
+    "year": "1944",
+    "event": "Steer Roping",
+    "athlete": "Tom Rhodes",
+    "hometown": "Sombrero Butte, Ariz."
+  },
+  {
+    "year": "1945",
+    "event": "Steer Roping",
+    "athlete": "Everett Shaw",
+    "hometown": "Stonewall, Okla."
+  },
+  {
+    "year": "1946",
+    "event": "Steer Roping",
+    "athlete": "Everett Shaw",
+    "hometown": "Stonewall, Okla."
+  },
+  {
+    "year": "1947",
+    "event": "Steer Roping",
+    "athlete": "Ike Rude",
+    "hometown": "Buffalo, Okla."
+  },
+  {
+    "year": "1948",
+    "event": "Steer Roping",
+    "athlete": "Everett Shaw",
+    "hometown": "Stonewall, Okla."
+  },
+  {
+    "year": "1949",
+    "event": "Steer Roping",
+    "athlete": "Shoat Webster",
+    "hometown": "Lenapah, Okla."
+  },
+  {
+    "year": "1950",
+    "event": "Steer Roping",
+    "athlete": "Shoat Webster",
+    "hometown": "Lenapah, Okla."
+  },
+  {
+    "year": "1951",
+    "event": "Steer Roping",
+    "athlete": "Everett Shaw",
+    "hometown": "Stonewall, Okla."
+  },
+  {
+    "year": "1952",
+    "event": "Steer Roping",
+    "athlete": "Buddy Neal",
+    "hometown": "Van Horn, Calif."
+  },
+  {
+    "year": "1953",
+    "event": "Steer Roping",
+    "athlete": "Ike Rude",
+    "hometown": "Buffalo, Okla."
+  },
+  {
+    "year": "1954",
+    "event": "Steer Roping",
+    "athlete": "Shoat Webster",
+    "hometown": "Lenapah, Okla."
+  },
+  {
+    "year": "1955",
+    "event": "Steer Roping",
+    "athlete": "Shoat Webster",
+    "hometown": "Lenapah, Okla."
+  },
+  {
+    "year": "1956",
+    "event": "Steer Roping",
+    "athlete": "Jim Snively",
+    "hometown": "Pawhuska, Okla."
+  },
+  {
+    "year": "1957",
+    "event": "Steer Roping",
+    "athlete": "Clark McEntire",
+    "hometown": "Kiowa, Okla."
+  },
+  {
+    "year": "1958",
+    "event": "Steer Roping",
+    "athlete": "Clark McEntire",
+    "hometown": "Kiowa, Okla."
+  },
+  {
+    "year": "1959",
+    "event": "Steer Roping",
+    "athlete": "Everett Shaw",
+    "hometown": "Stonewall, Okla."
+  },
+  {
+    "year": "1960",
+    "event": "Steer Roping",
+    "athlete": "Don McLaughlin",
+    "hometown": "Fort Worth, Texas"
+  },
+  {
+    "year": "1961",
+    "event": "Steer Roping",
+    "athlete": "Clark McEntire",
+    "hometown": "Kiowa, Okla."
+  },
+  {
+    "year": "1962",
+    "event": "Steer Roping",
+    "athlete": "Everett Shaw",
+    "hometown": "Stonewall, Okla."
+  },
+  {
+    "year": "1963",
+    "event": "Steer Roping",
+    "athlete": "Don McLaughlin",
+    "hometown": "Fort Collins, Colo."
+  },
+  {
+    "year": "1964",
+    "event": "Steer Roping",
+    "athlete": "Sonny Davis",
+    "hometown": "Kenna, N.M."
+  },
+  {
+    "year": "1965",
+    "event": "Steer Roping",
+    "athlete": "Sonney Wright",
+    "hometown": "Alto, N.M."
+  },
+  {
+    "year": "1966",
+    "event": "Steer Roping",
+    "athlete": "Sonny Davis",
+    "hometown": "Kenna, N.M."
+  },
+  {
+    "year": "1967",
+    "event": "Steer Roping",
+    "athlete": "Jim Bob Altizer",
+    "hometown": "Del Rio, Texas"
+  },
+  {
+    "year": "1968",
+    "event": "Steer Roping",
+    "athlete": "Sonny Davis",
+    "hometown": "Kenna, N.M."
+  },
+  {
+    "year": "1969",
+    "event": "Steer Roping",
+    "athlete": "Walter Arnold",
+    "hometown": "Silverton, Texas"
+  },
+  {
+    "year": "1970",
+    "event": "Steer Roping",
+    "athlete": "Don McLaughlin",
+    "hometown": "Fort Collins, Colo."
+  },
+  {
+    "year": "1971",
+    "event": "Steer Roping",
+    "athlete": "Olin Young",
+    "hometown": "Peralta, N.M."
+  },
+  {
+    "year": "1972",
+    "event": "Steer Roping",
+    "athlete": "Allen Keller",
+    "hometown": "Olathe, Colo."
+  },
+  {
+    "year": "1973",
+    "event": "Steer Roping",
+    "athlete": "Roy Thompson",
+    "hometown": "Tulia, Texas"
+  },
+  {
+    "year": "1974",
+    "event": "Steer Roping",
+    "athlete": "Olin Young",
+    "hometown": "Peralto, N.M."
+  },
+  {
+    "year": "1975",
+    "event": "Steer Roping",
+    "athlete": "Roy Thompson",
+    "hometown": "Tulia, Texas"
+  },
+  {
+    "year": "1976",
+    "event": "Steer Roping",
+    "athlete": "Charles Good",
+    "hometown": "Elida, N.M."
+  },
+  {
+    "year": "1977",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Santa Anna, Texas"
+  },
+  {
+    "year": "1978",
+    "event": "Steer Roping",
+    "athlete": "Kenny Call",
+    "hometown": "Norman, Okla."
+  },
+  {
+    "year": "1979",
+    "event": "Steer Roping",
+    "athlete": "Gary Good",
+    "hometown": "Elida, N.M."
+  },
+  {
+    "year": "1980",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Santa Anna, Texas"
+  },
+  {
+    "year": "1981",
+    "event": "Steer Roping",
+    "athlete": "Arnold Felts",
+    "hometown": "Mutual, Okla."
+  },
+  {
+    "year": "1982",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "1983",
+    "event": "Steer Roping",
+    "athlete": "Roy Cooper",
+    "hometown": "Durant, Okla."
+  },
+  {
+    "year": "1984",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "1985",
+    "event": "Steer Roping",
+    "athlete": "Jim Davis",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1986",
+    "event": "Steer Roping",
+    "athlete": "Jim Davis",
+    "hometown": "Bandera, Texas"
+  },
+  {
+    "year": "1987",
+    "event": "Steer Roping",
+    "athlete": "Shaun Burchett",
+    "hometown": "Pryor, Okla."
+  },
+  {
+    "year": "1988",
+    "event": "Steer Roping",
+    "athlete": "Shaun Burchett",
+    "hometown": "Pryor, Okla."
+  },
+  {
+    "year": "1989",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "1990",
+    "event": "Steer Roping",
+    "athlete": "Phil Lyne",
+    "hometown": "Cotulla, Texas"
+  },
+  {
+    "year": "1991",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Vinita, Okla."
+  },
+  {
+    "year": "1992",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Vinita, Okla."
+  },
+  {
+    "year": "1993",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Vinita, Okla."
+  },
+  {
+    "year": "1994",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Vinita, Okla."
+  },
+  {
+    "year": "1995",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Lovington, N.M"
+  },
+  {
+    "year": "1996",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Lovington, N.M"
+  },
+  {
+    "year": "1997",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "1998",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "1999",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "2000",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Lovington, N.M."
+  },
+  {
+    "year": "2001",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Santa Anna, Texas"
+  },
+  {
+    "year": "2002",
+    "event": "Steer Roping",
+    "athlete": "Buster Record",
+    "hometown": "Buffalo, Okla."
+  },
+  {
+    "year": "2003",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Santa Anna, Texas"
+  },
+  {
+    "year": "2004",
+    "event": "Steer Roping",
+    "athlete": "Guy Allen",
+    "hometown": "Santa Anna, Texas"
+  },
+  {
+    "year": "2005",
+    "event": "Steer Roping",
+    "athlete": "Scott Snedecor",
+    "hometown": "Uvalde, Texas"
+  },
+  {
+    "year": "2006",
+    "event": "Steer Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2007",
+    "event": "Steer Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2008",
+    "event": "Steer Roping",
+    "athlete": "Scott Snedecor",
+    "hometown": "Uvalde, Texas"
+  },
+  {
+    "year": "2009",
+    "event": "Steer Roping",
+    "athlete": "Rocky Patterson",
+    "hometown": "Pratt, Kan."
+  },
+  {
+    "year": "2010",
+    "event": "Steer Roping",
+    "athlete": "Rocky Patterson",
+    "hometown": "Pratt, Kan."
+  },
+  {
+    "year": "2011",
+    "event": "Steer Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2012",
+    "event": "Steer Roping",
+    "athlete": "Rocky Patterson",
+    "hometown": "Pratt, Kan."
+  },
+  {
+    "year": "2013",
+    "event": "Steer Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2014",
+    "event": "Steer Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2015",
+    "event": "Steer Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2016",
+    "event": "Steer Roping",
+    "athlete": "Rocky Patterson",
+    "hometown": "Pratt, Kan."
+  },
+  {
+    "year": "2017",
+    "event": "Steer Roping",
+    "athlete": "Scott Snedecor",
+    "hometown": "Fredericksburg, Texas"
+  },
+  {
+    "year": "2018",
+    "event": "Steer Roping",
+    "athlete": "Scott Snedecor",
+    "hometown": "Fredericksburg, Texas"
+  },
+  {
+    "year": "2019",
+    "event": "Steer Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2020",
+    "event": "Steer Roping",
+    "athlete": "Trevor Brazile",
+    "hometown": "Decatur, Texas"
+  },
+  {
+    "year": "2021",
+    "event": "Steer Roping",
+    "athlete": "Cole Patterson",
+    "hometown": "Pratt, Kan."
+  },
+  {
+    "year": "2022",
+    "event": "Steer Roping",
+    "athlete": "J. Tom Fisher",
+    "hometown": "Andrews, Texas"
+  },
+  {
+    "year": "2023",
+    "event": "Steer Roping",
+    "athlete": "Cole Patterson",
+    "hometown": "Pratt, Kan."
+  },
+  {
+    "year": "2024",
+    "event": "Steer Roping",
+    "athlete": "Cole Patterson",
+    "hometown": "Pratt, Kan."
+  }
+]
