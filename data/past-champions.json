@@ -570,6 +570,12 @@
     "hometown": "Clovis, N.M."
   },
   {
+    "year": "2025",
+    "event": "All Around",
+    "athlete": "Stetson Wright",
+    "hometown": "Beaver, Utah"
+  },
+  {
     "year": "1932",
     "event": "Bareback Riding",
     "athlete": "Smoky Snyder",
@@ -1126,6 +1132,12 @@
     "event": "Bareback Riding",
     "athlete": "Dean Thompson",
     "hometown": "Altamont, Utah"
+  },
+  {
+    "year": "2025",
+    "event": "Bareback Riding",
+    "athlete": "Rocker Steiner",
+    "hometown": "Weatherford, TX"
   },
   {
     "year": "1929",
@@ -1710,6 +1722,12 @@
     "hometown": "Milford, Utah"
   },
   {
+    "year": "2025",
+    "event": "Saddle Bronc Riding",
+    "athlete": "Statler Wright",
+    "hometown": "Beaver, Utah"
+  },
+  {
     "year": "1929",
     "event": "Steer Wrestling",
     "athlete": "Gene Ross",
@@ -2284,6 +2302,12 @@
     "event": "Steer Wrestling",
     "athlete": "J.D. Struxness",
     "hometown": "Milan, Minn."
+  },
+  {
+    "year": "2025",
+    "event": "Steer Wrestling",
+    "athlete": "Tucker Allen",
+    "hometown": "Ventura, CA"
   },
   {
     "year": "1929",
@@ -3132,6 +3156,18 @@
     "hometown": "Throckmorton, Texas"
   },
   {
+    "year": "2025",
+    "event": "Team Roping",
+    "athlete": "Andrew Ward (hdr)",
+    "hometown": "Edmond, OK"
+  },
+  {
+    "year": "2025",
+    "event": "Team Roping",
+    "athlete": "Jake Long (hlr)",
+    "hometown": "Coffeyville, KS"
+  },
+  {
     "year": "1929",
     "event": "Tie-Down Roping",
     "athlete": "Everett Bowman",
@@ -3703,6 +3739,12 @@
   },
   {
     "year": "2024",
+    "event": "Tie-Down Roping",
+    "athlete": "Riley Webb",
+    "hometown": "Denton, Texas"
+  },
+  {
+    "year": "2025",
     "event": "Tie-Down Roping",
     "athlete": "Riley Webb",
     "hometown": "Denton, Texas"
@@ -4290,6 +4332,12 @@
     "hometown": "Randlett, Utah"
   },
   {
+    "year": "2025",
+    "event": "Bull Riding",
+    "athlete": "Stetson Wright",
+    "hometown": "Beaver, Utah"
+  },
+  {
     "year": "1929",
     "event": "Steer Roping",
     "athlete": "Charles Maggini",
@@ -4864,5 +4912,11 @@
     "event": "Steer Roping",
     "athlete": "Cole Patterson",
     "hometown": "Pratt, Kan."
+  }
+  {
+    "year": "2025",
+    "event": "Steer Roping",
+    "athlete": "Cole Patterson",
+    "hometown": "Pawnee, OK"
   }
 ]
