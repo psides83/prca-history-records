@@ -5,6 +5,8 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "normalize:hometowns": "node normalize-hometown-abbreviations.mjs",
+    "split:team-roping": "node split-team-roping-events.mjs",
     "scrape": "node scrape-prca-world-champions.mjs",
     "scrape:headed": "node scrape-prca-world-champions.mjs --headed --manual"
   },
