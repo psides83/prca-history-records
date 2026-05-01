@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>PRCA Historical World Champions</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #f7f4ee;
+        --ink: #1e2930;
+        --muted: #64727b;
+        --line: #d8d1c6;
+        --accent: #9f4f2f;
+        --panel: #fffdf8;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #171a1c;
+          --ink: #f3efe8;
+          --muted: #a8b0b6;
+          --line: #343a3f;
+          --accent: #d7865a;
+          --panel: #202427;
+        }
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--ink);
+        font: 16px/1.5 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      main {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 40px 0;
+      }
+
+      header {
+        display: flex;
+        align-items: end;
+        justify-content: space-between;
+        gap: 24px;
+        border-bottom: 1px solid var(--line);
+        padding-bottom: 20px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(1.8rem, 4vw, 3.2rem);
+        line-height: 1.05;
+      }
+
+      p {
+        color: var(--muted);
+        margin: 8px 0 0;
+      }
+
+      a {
+        color: var(--accent);
+        font-weight: 700;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        gap: 12px;
+        margin: 28px 0;
+      }
+
+      .stat,
+      .table-wrap {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+      }
+
+      .stat {
+        padding: 16px;
+      }
+
+      .stat strong {
+        display: block;
+        font-size: 1.7rem;
+        line-height: 1;
+      }
+
+      .stat span {
+        color: var(--muted);
+        font-size: 0.9rem;
+      }
+
+      .table-wrap {
+        overflow: auto;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 720px;
+      }
+
+      th,
+      td {
+        border-bottom: 1px solid var(--line);
+        padding: 10px 12px;
+        text-align: left;
+      }
+
+      th {
+        position: sticky;
+        top: 0;
+        background: var(--panel);
+        font-size: 0.78rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+      }
+
+      tr:last-child td {
+        border-bottom: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div>
+          <h1>PRCA Historical World Champions</h1>
+          <p>Compiled from PRCA historical champions text into structured JSON.</p>
+        </div>
+        <a href="past-champions.json">JSON</a>
+      </header>
+
+      <section class="stats" id="stats"></section>
+
+      <section class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Year</th>
+              <th>Event</th>
+              <th>Athlete</th>
+              <th>Hometown</th>
+            </tr>
+          </thead>
+          <tbody id="champions"></tbody>
+        </table>
+      </section>
+    </main>
+
+    <script>
+      const stats = document.querySelector("#stats");
+      const champions = document.querySelector("#champions");
+
+      fetch("past-champions.json")
+        .then((response) => response.json())
+        .then((records) => {
+          const eventCounts = records.reduce((counts, record) => {
+            counts[record.event] = (counts[record.event] || 0) + 1;
+            return counts;
+          }, {});
+
+          stats.innerHTML = [
+            ["Records", records.length],
+            ["Events", Object.keys(eventCounts).length],
+            ["First Year", Math.min(...records.map((record) => Number(record.year)))],
+            ["Latest Year", Math.max(...records.map((record) => Number(record.year)))],
+          ]
+            .map(([label, value]) => `<div class="stat"><strong>${value}</strong><span>${label}</span></div>`)
+            .join("");
+
+          champions.innerHTML = records
+            .map(
+              (record) => `<tr>
+                <td>${record.year}</td>
+                <td>${record.event}</td>
+                <td>${record.athlete}</td>
+                <td>${record.hometown}</td>
+              </tr>`,
+            )
+            .join("");
+        });
+    </script>
+  </body>
+</html>
